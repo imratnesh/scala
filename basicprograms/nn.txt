@@ -1,0 +1,300 @@
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+warning: there was one deprecation warning; re-run with -deprecation for details
+
+one warning found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+warning: there was one deprecation warning; re-run with -deprecation for details
+
+one warning found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+warning: there was one deprecation warning; re-run with -deprecation for details
+
+one warning found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+warning: there was one deprecation warning; re-run with -deprecation for details
+
+one warning found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala -deprecation
+UrlPattern.scala:14: warning: Octal escape literals are deprecated, use \u0001 i
+nstead.
+val pattern = "\\s(/.+)\\sH+\1\b".r
+                            ^
+one warning found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+UrlPattern.scala:14: error: invalid escape character
+val pattern = "\b(\w+)\b\s+\1\b".r
+                   ^
+UrlPattern.scala:14: error: invalid escape character
+val pattern = "\b(\w+)\b\s+\1\b".r
+                         ^
+two errors found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+UrlPattern.scala:14: error: invalid escape character
+val pattern = "\b(\w+)\b\\s+\1\b".r
+                   ^
+one error found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+warning: there was one deprecation warning; re-run with -deprecation for details
+
+one warning found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala -deprecation
+UrlPattern.scala:14: warning: Octal escape literals are deprecated, use \u0001 i
+nstead.
+val pattern = "\b(\\w+)\b\\s+\1\b".r
+                             ^
+one warning found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala -deprecation
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+UrlPattern.scala:14: error: invalid escape character
+val pattern = "\\s(/.+)\\sH\$1".r
+                            ^
+one error found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+java.lang.IllegalStateException: No match available
+        at java.util.regex.Matcher.start(Matcher.java:372)
+        at scala.util.matching.Regex$MatchIterator.start(Regex.scala:688)
+        at scala.util.matching.Regex$MatchData$class.group(Regex.scala:543)
+        at scala.util.matching.Regex$MatchIterator.group(Regex.scala:663)
+        at UrlPattern$.main(UrlPattern.scala:21)
+        at UrlPattern.main(UrlPattern.scala)
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.
+java:57)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAcces
+sorImpl.java:43)
+        at java.lang.reflect.Method.invoke(Method.java:601)
+        at scala.reflect.internal.util.ScalaClassLoader$$anonfun$run$1.apply(Sca
+laClassLoader.scala:68)
+        at scala.reflect.internal.util.ScalaClassLoader$class.asContext(ScalaCla
+ssLoader.scala:31)
+        at scala.reflect.internal.util.ScalaClassLoader$URLClassLoader.asContext
+(ScalaClassLoader.scala:99)
+        at scala.reflect.internal.util.ScalaClassLoader$class.run(ScalaClassLoad
+er.scala:68)
+        at scala.reflect.internal.util.ScalaClassLoader$URLClassLoader.run(Scala
+ClassLoader.scala:99)
+        at scala.tools.nsc.CommonRunner$class.run(ObjectRunner.scala:22)
+        at scala.tools.nsc.ObjectRunner$.run(ObjectRunner.scala:39)
+        at scala.tools.nsc.CommonRunner$class.runAndCatch(ObjectRunner.scala:29)
+
+        at scala.tools.nsc.ObjectRunner$.runAndCatch(ObjectRunner.scala:39)
+        at scala.tools.nsc.MainGenericRunner.runTarget$1(MainGenericRunner.scala
+:65)
+        at scala.tools.nsc.MainGenericRunner.run$1(MainGenericRunner.scala:87)
+        at scala.tools.nsc.MainGenericRunner.process(MainGenericRunner.scala:98)
+
+        at scala.tools.nsc.MainGenericRunner$.main(MainGenericRunner.scala:103)
+        at scala.tools.nsc.MainGenericRunner.main(MainGenericRunner.scala)
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+UrlPattern.scala:21: error: not found: value $2
+writer.write((pattern findAllIn addChar.toString).group($2).mkString("\n"))
+                                                        ^
+one error found
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+java.lang.IllegalStateException: No match available
+        at java.util.regex.Matcher.start(Matcher.java:372)
+        at scala.util.matching.Regex$MatchIterator.start(Regex.scala:688)
+        at scala.util.matching.Regex$MatchData$class.group(Regex.scala:543)
+        at scala.util.matching.Regex$MatchIterator.group(Regex.scala:663)
+        at UrlPattern$.main(UrlPattern.scala:21)
+        at UrlPattern.main(UrlPattern.scala)
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.
+java:57)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAcces
+sorImpl.java:43)
+        at java.lang.reflect.Method.invoke(Method.java:601)
+        at scala.reflect.internal.util.ScalaClassLoader$$anonfun$run$1.apply(Sca
+laClassLoader.scala:68)
+        at scala.reflect.internal.util.ScalaClassLoader$class.asContext(ScalaCla
+ssLoader.scala:31)
+        at scala.reflect.internal.util.ScalaClassLoader$URLClassLoader.asContext
+(ScalaClassLoader.scala:99)
+        at scala.reflect.internal.util.ScalaClassLoader$class.run(ScalaClassLoad
+er.scala:68)
+        at scala.reflect.internal.util.ScalaClassLoader$URLClassLoader.run(Scala
+ClassLoader.scala:99)
+        at scala.tools.nsc.CommonRunner$class.run(ObjectRunner.scala:22)
+        at scala.tools.nsc.ObjectRunner$.run(ObjectRunner.scala:39)
+        at scala.tools.nsc.CommonRunner$class.runAndCatch(ObjectRunner.scala:29)
+
+        at scala.tools.nsc.ObjectRunner$.runAndCatch(ObjectRunner.scala:39)
+        at scala.tools.nsc.MainGenericRunner.runTarget$1(MainGenericRunner.scala
+:65)
+        at scala.tools.nsc.MainGenericRunner.run$1(MainGenericRunner.scala:87)
+        at scala.tools.nsc.MainGenericRunner.process(MainGenericRunner.scala:98)
+
+        at scala.tools.nsc.MainGenericRunner$.main(MainGenericRunner.scala:103)
+        at scala.tools.nsc.MainGenericRunner.main(MainGenericRunner.scala)
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scalac UrlPattern.scala
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala UrlPattern
+java.lang.IllegalStateException: No match available
+        at java.util.regex.Matcher.start(Matcher.java:372)
+        at scala.util.matching.Regex$MatchIterator.start(Regex.scala:688)
+        at scala.util.matching.Regex$MatchData$class.group(Regex.scala:543)
+        at scala.util.matching.Regex$MatchIterator.group(Regex.scala:663)
+        at UrlPattern$.main(UrlPattern.scala:21)
+        at UrlPattern.main(UrlPattern.scala)
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.
+java:57)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAcces
+sorImpl.java:43)
+        at java.lang.reflect.Method.invoke(Method.java:601)
+        at scala.reflect.internal.util.ScalaClassLoader$$anonfun$run$1.apply(Sca
+laClassLoader.scala:68)
+        at scala.reflect.internal.util.ScalaClassLoader$class.asContext(ScalaCla
+ssLoader.scala:31)
+        at scala.reflect.internal.util.ScalaClassLoader$URLClassLoader.asContext
+(ScalaClassLoader.scala:99)
+        at scala.reflect.internal.util.ScalaClassLoader$class.run(ScalaClassLoad
+er.scala:68)
+        at scala.reflect.internal.util.ScalaClassLoader$URLClassLoader.run(Scala
+ClassLoader.scala:99)
+        at scala.tools.nsc.CommonRunner$class.run(ObjectRunner.scala:22)
+        at scala.tools.nsc.ObjectRunner$.run(ObjectRunner.scala:39)
+        at scala.tools.nsc.CommonRunner$class.runAndCatch(ObjectRunner.scala:29)
+
+        at scala.tools.nsc.ObjectRunner$.runAndCatch(ObjectRunner.scala:39)
+        at scala.tools.nsc.MainGenericRunner.runTarget$1(MainGenericRunner.scala
+:65)
+        at scala.tools.nsc.MainGenericRunner.run$1(MainGenericRunner.scala:87)
+        at scala.tools.nsc.MainGenericRunner.process(MainGenericRunner.scala:98)
+
+        at scala.tools.nsc.MainGenericRunner$.main(MainGenericRunner.scala:103)
+        at scala.tools.nsc.MainGenericRunner.main(MainGenericRunner.scala)
+
+C:\Users\Ratnesh Kushwaha\Desktop\scala>scala
+Welcome to Scala version 2.11.2 (Java HotSpot(TM) Client VM, Java 1.7.0_21).
+Type in expressions to have them evaluated.
+Type :help for more information.
+
+scala> val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+<console>:7: error: not found: value \
+       val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+                                                ^
+<console>:7: error: not found: value /
+       val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+                                                    ^
+<console>:7: error: not found: value \
+       val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+                                                         ^
+
+scala> val withNames = new util.matching.Regex((\\s)(/.+)(\\sH))
+<console>:7: error: not found: value \\
+       val withNames = new util.matching.Regex((\\s)(/.+)(\\sH))
+                                                ^
+<console>:7: error: not found: value /
+       val withNames = new util.matching.Regex((\\s)(/.+)(\\sH))
+                                                     ^
+<console>:7: error: not found: value \\
+       val withNames = new util.matching.Regex((\\s)(/.+)(\\sH))
+                                                          ^
+
+scala> val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+<console>:7: error: not found: value \
+       val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+                                                ^
+<console>:7: error: not found: value /
+       val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+                                                    ^
+<console>:7: error: not found: value \
+       val withNames = new util.matching.Regex((\s)(/.+)(\sH))
+                                                         ^
+
+scala> val withNames = new util.matching.Regex("""(\s)(/.+)(\sH)""")
+withNames: scala.util.matching.Regex = (\s)(/.+)(\sH)
+
+scala> withNames findFirstIn "::1 - - [15/Apr/2014:17:07:54 +0530] "GET /sqlbudd
+y/js/movement.js?ver=1_3_3 HTTP/1.1" 304 -"
+<console>:1: error: ';' expected but '.' found.
+       withNames findFirstIn "::1 - - [15/Apr/2014:17:07:54 +0530] "GET /sqlbudd
+y/js/movement.js?ver=1_3_3 HTTP/1.1" 304 -"
+
+             ^
+<console>:1: error: Invalid literal number
+       withNames findFirstIn "::1 - - [15/Apr/2014:17:07:54 +0530] "GET /sqlbudd
+y/js/movement.js?ver=1_3_3 HTTP/1.1" 304 -"
+
+                     ^
+
+scala> withNames findFirstIn """::1 - - [15/Apr/2014:17:07:54 +0530] "GET /sqlbu
+ddy/js/movement.js?ver=1_3_3 HTTP/1.1" 304 -"""
+res0: Option[String] = Some( /sqlbuddy/js/movement.js?ver=1_3_3 H)
+
+scala> val somevalue=withNames findFirstIn """::1 - - [15/Apr/2014:17:07:54 +053
+0] "GET /sqlbuddy/js/movement.js?ver=1_3_3 HTTP/1.1" 304 -"""
+somevalue: Option[String] = Some( /sqlbuddy/js/movement.js?ver=1_3_3 H)
+
+scala> somevalue.groupNames
+<console>:10: error: value groupNames is not a member of Option[String]
+              somevalue.groupNames
+                        ^
+
+scala> val Some(value)=withNames findFirstIn 
+"""::1 - - [15/Apr/2014:17:07:54 +0530] "GET /sqlbuddy/js/movement.js?ver=1_3_3 HTTP/1.1" 304 -"""
+value: String = " /sqlbuddy/js/movement.js?ver=1_3_3 H"
+
+scala> value.groupNames
+<console>:10: error: value groupNames is not a member of String
+              value.groupNames
+                    ^
+
+scala>

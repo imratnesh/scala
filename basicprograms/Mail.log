@@ -1,0 +1,305 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          8/17/2014	12:00:03 PM	0000092C:   Started, Log = 1
+8/17/2014	12:00:03 PM	0000092C:   Build 9.0.2018
+8/17/2014	12:00:03 PM	0000092C:   OS Windows 8 Workstation
+8/17/2014	12:00:03 PM	0000092C:   AutoRedirect 1
+8/17/2014	12:00:03 PM	0000092C:   POP RedirectPort: 110
+8/17/2014	12:00:03 PM	0000092C:   SMTP RedirectPort: 25,587
+8/17/2014	12:00:03 PM	0000092C:   IMAP RedirectPort: 143
+8/17/2014	12:00:03 PM	0000092C:   NNTP RedirectPort: 119
+8/17/2014	12:00:03 PM	0000092C:   POPs RedirectPort: 995
+8/17/2014	12:00:03 PM	0000092C:   SMTPs RedirectPort: 465
+8/17/2014	12:00:03 PM	0000092C:   IMAPs RedirectPort: 993
+8/17/2014	12:00:03 PM	0000092C:   NNTPs RedirectPort: 563
+8/17/2014	12:00:03 PM	0000092C:   IgnoreLocalhost 1
+8/17/2014	12:00:03 PM	0000092C:   ScanSSL 1
+8/17/2014	12:00:03 PM	0000092C:   POP Start: 1
+8/17/2014	12:00:03 PM	0000092C:   POP RedirectPort: 110
+8/17/2014	12:00:03 PM	0000092C:   SMTP Start: 1
+8/17/2014	12:00:03 PM	0000092C:   SMTP RedirectPort: 25,587
+8/17/2014	12:00:03 PM	0000092C:   IMAP Start: 1
+8/17/2014	12:00:03 PM	0000092C:   IMAP RedirectPort: 143
+8/17/2014	12:00:03 PM	0000092C:   NNTP Start: 1
+8/17/2014	12:00:03 PM	0000092C:   NNTP RedirectPort: 119
+8/17/2014	12:00:03 PM	0000092C:   POPs Start: 1
+8/17/2014	12:00:03 PM	0000092C:   POPs RedirectPort: 995
+8/17/2014	12:00:03 PM	0000092C:   SMTPs Start: 1
+8/17/2014	12:00:03 PM	0000092C:   SMTPs RedirectPort: 465
+8/17/2014	12:00:03 PM	0000092C:   IMAPs Start: 1
+8/17/2014	12:00:03 PM	0000092C:   IMAPs RedirectPort: 993
+8/17/2014	12:00:03 PM	0000092C:   NNTPs Start: 1
+8/17/2014	12:00:03 PM	0000092C:   NNTPs RedirectPort: 563
+8/19/2014	4:09:40 PM	0000092C:   CertOpenStore(Root) error 19
+8/19/2014	4:09:41 PM	0000092C:   Stopped
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            8/19/2014	4:12:41 PM	0000024C:   Started, Log = 1
+8/19/2014	4:12:41 PM	0000024C:   Build 9.0.2018
+8/19/2014	4:12:41 PM	0000024C:   OS Windows 8 Workstation
+8/19/2014	4:12:41 PM	0000024C:   AutoRedirect 1
+8/19/2014	4:12:41 PM	0000024C:   POP RedirectPort: 110
+8/19/2014	4:12:41 PM	0000024C:   SMTP RedirectPort: 25,587
+8/19/2014	4:12:41 PM	0000024C:   IMAP RedirectPort: 143
+8/19/2014	4:12:41 PM	0000024C:   NNTP RedirectPort: 119
+8/19/2014	4:12:41 PM	0000024C:   POPs RedirectPort: 995
+8/19/2014	4:12:41 PM	0000024C:   SMTPs RedirectPort: 465
+8/19/2014	4:12:41 PM	0000024C:   IMAPs RedirectPort: 993
+8/19/2014	4:12:41 PM	0000024C:   NNTPs RedirectPort: 563
+8/19/2014	4:12:41 PM	0000024C:   IgnoreLocalhost 1
+8/19/2014	4:12:41 PM	0000024C:   ScanSSL 1
+8/19/2014	4:12:41 PM	0000024C:   POP Start: 1
+8/19/2014	4:12:41 PM	0000024C:   POP RedirectPort: 110
+8/19/2014	4:12:41 PM	0000024C:   SMTP Start: 1
+8/19/2014	4:12:41 PM	0000024C:   SMTP RedirectPort: 25,587
+8/19/2014	4:12:41 PM	0000024C:   IMAP Start: 1
+8/19/2014	4:12:41 PM	0000024C:   IMAP RedirectPort: 143
+8/19/2014	4:12:41 PM	0000024C:   NNTP Start: 1
+8/19/2014	4:12:41 PM	0000024C:   NNTP RedirectPort: 119
+8/19/2014	4:12:41 PM	0000024C:   POPs Start: 1
+8/19/2014	4:12:41 PM	0000024C:   POPs RedirectPort: 995
+8/19/2014	4:12:41 PM	0000024C:   SMTPs Start: 1
+8/19/2014	4:12:41 PM	0000024C:   SMTPs RedirectPort: 465
+8/19/2014	4:12:41 PM	0000024C:   IMAPs Start: 1
+8/19/2014	4:12:41 PM	0000024C:   IMAPs RedirectPort: 993
+8/19/2014	4:12:41 PM	0000024C:   NNTPs Start: 1
+8/19/2014	4:12:41 PM	0000024C:   NNTPs RedirectPort: 563
+8/20/2014	11:03:45 PM	0000024C:   Stopped
+8/21/2014	5:09:27 PM	000007F4:   Started, Log = 1
+8/21/2014	5:09:27 PM	000007F4:   Build 9.0.2018
+8/21/2014	5:09:27 PM	000007F4:   OS Windows 8 Workstation
+8/21/2014	5:09:27 PM	000007F4:   AutoRedirect 1
+8/21/2014	5:09:27 PM	000007F4:   POP RedirectPort: 110
+8/21/2014	5:09:27 PM	000007F4:   SMTP RedirectPort: 25,587
+8/21/2014	5:09:27 PM	000007F4:   IMAP RedirectPort: 143
+8/21/2014	5:09:27 PM	000007F4:   NNTP RedirectPort: 119
+8/21/2014	5:09:27 PM	000007F4:   POPs RedirectPort: 995
+8/21/2014	5:09:27 PM	000007F4:   SMTPs RedirectPort: 465
+8/21/2014	5:09:27 PM	000007F4:   IMAPs RedirectPort: 993
+8/21/2014	5:09:27 PM	000007F4:   NNTPs RedirectPort: 563
+8/21/2014	5:09:27 PM	000007F4:   IgnoreLocalhost 1
+8/21/2014	5:09:27 PM	000007F4:   ScanSSL 1
+8/21/2014	5:09:27 PM	000007F4:   POP Start: 1
+8/21/2014	5:09:27 PM	000007F4:   POP RedirectPort: 110
+8/21/2014	5:09:27 PM	000007F4:   SMTP Start: 1
+8/21/2014	5:09:27 PM	000007F4:   SMTP RedirectPort: 25,587
+8/21/2014	5:09:27 PM	000007F4:   IMAP Start: 1
+8/21/2014	5:09:27 PM	000007F4:   IMAP RedirectPort: 143
+8/21/2014	5:09:27 PM	000007F4:   NNTP Start: 1
+8/21/2014	5:09:27 PM	000007F4:   NNTP RedirectPort: 119
+8/21/2014	5:09:27 PM	000007F4:   POPs Start: 1
+8/21/2014	5:09:27 PM	000007F4:   POPs RedirectPort: 995
+8/21/2014	5:09:27 PM	000007F4:   SMTPs Start: 1
+8/21/2014	5:09:27 PM	000007F4:   SMTPs RedirectPort: 465
+8/21/2014	5:09:27 PM	000007F4:   IMAPs Start: 1
+8/21/2014	5:09:27 PM	000007F4:   IMAPs RedirectPort: 993
+8/21/2014	5:09:27 PM	000007F4:   NNTPs Start: 1
+8/21/2014	5:09:27 PM	000007F4:   NNTPs RedirectPort: 563
+8/21/2014	5:23:33 PM	000007F4:   Stopped
+8/21/2014	5:32:37 PM	00000260:   Started, Log = 1
+8/21/2014	5:32:37 PM	00000260:   Build 9.0.2018
+8/21/2014	5:32:37 PM	00000260:   OS Windows 8 Workstation
+8/21/2014	5:32:37 PM	00000260:   AutoRedirect 1
+8/21/2014	5:32:37 PM	00000260:   POP RedirectPort: 110
+8/21/2014	5:32:37 PM	00000260:   SMTP RedirectPort: 25,587
+8/21/2014	5:32:37 PM	00000260:   IMAP RedirectPort: 143
+8/21/2014	5:32:37 PM	00000260:   NNTP RedirectPort: 119
+8/21/2014	5:32:37 PM	00000260:   POPs RedirectPort: 995
+8/21/2014	5:32:37 PM	00000260:   SMTPs RedirectPort: 465
+8/21/2014	5:32:37 PM	00000260:   IMAPs RedirectPort: 993
+8/21/2014	5:32:37 PM	00000260:   NNTPs RedirectPort: 563
+8/21/2014	5:32:37 PM	00000260:   IgnoreLocalhost 1
+8/21/2014	5:32:37 PM	00000260:   ScanSSL 1
+8/21/2014	5:32:37 PM	00000260:   POP Start: 1
+8/21/2014	5:32:37 PM	00000260:   POP RedirectPort: 110
+8/21/2014	5:32:37 PM	00000260:   SMTP Start: 1
+8/21/2014	5:32:37 PM	00000260:   SMTP RedirectPort: 25,587
+8/21/2014	5:32:37 PM	00000260:   IMAP Start: 1
+8/21/2014	5:32:37 PM	00000260:   IMAP RedirectPort: 143
+8/21/2014	5:32:37 PM	00000260:   NNTP Start: 1
+8/21/2014	5:32:37 PM	00000260:   NNTP RedirectPort: 119
+8/21/2014	5:32:37 PM	00000260:   POPs Start: 1
+8/21/2014	5:32:37 PM	00000260:   POPs RedirectPort: 995
+8/21/2014	5:32:37 PM	00000260:   SMTPs Start: 1
+8/21/2014	5:32:37 PM	00000260:   SMTPs RedirectPort: 465
+8/21/2014	5:32:37 PM	00000260:   IMAPs Start: 1
+8/21/2014	5:32:37 PM	00000260:   IMAPs RedirectPort: 993
+8/21/2014	5:32:37 PM	00000260:   NNTPs Start: 1
+8/21/2014	5:32:37 PM	00000260:   NNTPs RedirectPort: 563
+8/23/2014	9:49:47 PM	00000928:   Started, Log = 1
+8/23/2014	9:49:47 PM	00000928:   Build 9.0.2018
+8/23/2014	9:49:47 PM	00000928:   OS Windows 8 Workstation
+8/23/2014	9:49:48 PM	00000928:   AutoRedirect 1
+8/23/2014	9:49:48 PM	00000928:   POP RedirectPort: 110
+8/23/2014	9:49:48 PM	00000928:   SMTP RedirectPort: 25,587
+8/23/2014	9:49:48 PM	00000928:   IMAP RedirectPort: 143
+8/23/2014	9:49:48 PM	00000928:   NNTP RedirectPort: 119
+8/23/2014	9:49:48 PM	00000928:   POPs RedirectPort: 995
+8/23/2014	9:49:48 PM	00000928:   SMTPs RedirectPort: 465
+8/23/2014	9:49:48 PM	00000928:   IMAPs RedirectPort: 993
+8/23/2014	9:49:48 PM	00000928:   NNTPs RedirectPort: 563
+8/23/2014	9:49:48 PM	00000928:   IgnoreLocalhost 1
+8/23/2014	9:49:48 PM	00000928:   ScanSSL 1
+8/23/2014	9:49:48 PM	00000928:   POP Start: 1
+8/23/2014	9:49:48 PM	00000928:   POP RedirectPort: 110
+8/23/2014	9:49:48 PM	00000928:   SMTP Start: 1
+8/23/2014	9:49:48 PM	00000928:   SMTP RedirectPort: 25,587
+8/23/2014	9:49:48 PM	00000928:   IMAP Start: 1
+8/23/2014	9:49:48 PM	00000928:   IMAP RedirectPort: 143
+8/23/2014	9:49:48 PM	00000928:   NNTP Start: 1
+8/23/2014	9:49:48 PM	00000928:   NNTP RedirectPort: 119
+8/23/2014	9:49:48 PM	00000928:   POPs Start: 1
+8/23/2014	9:49:48 PM	00000928:   POPs RedirectPort: 995
+8/23/2014	9:49:48 PM	00000928:   SMTPs Start: 1
+8/23/2014	9:49:48 PM	00000928:   SMTPs RedirectPort: 465
+8/23/2014	9:49:48 PM	00000928:   IMAPs Start: 1
+8/23/2014	9:49:48 PM	00000928:   IMAPs RedirectPort: 993
+8/23/2014	9:49:48 PM	00000928:   NNTPs Start: 1
+8/23/2014	9:49:48 PM	00000928:   NNTPs RedirectPort: 563
+8/23/2014	9:52:27 PM	00000B40:   Started, Log = 1
+8/23/2014	9:52:27 PM	00000B40:   Build 9.0.2018
+8/23/2014	9:52:27 PM	00000B40:   OS Windows 8 Workstation
+8/23/2014	9:52:27 PM	00000B40:   AutoRedirect 1
+8/23/2014	9:52:27 PM	00000B40:   POP RedirectPort: 110
+8/23/2014	9:52:27 PM	00000B40:   SMTP RedirectPort: 25,587
+8/23/2014	9:52:27 PM	00000B40:   IMAP RedirectPort: 143
+8/23/2014	9:52:27 PM	00000B40:   NNTP RedirectPort: 119
+8/23/2014	9:52:27 PM	00000B40:   POPs RedirectPort: 995
+8/23/2014	9:52:27 PM	00000B40:   SMTPs RedirectPort: 465
+8/23/2014	9:52:27 PM	00000B40:   IMAPs RedirectPort: 993
+8/23/2014	9:52:27 PM	00000B40:   NNTPs RedirectPort: 563
+8/23/2014	9:52:27 PM	00000B40:   IgnoreLocalhost 1
+8/23/2014	9:52:27 PM	00000B40:   ScanSSL 1
+8/23/2014	9:52:27 PM	00000B40:   POP Start: 1
+8/23/2014	9:52:27 PM	00000B40:   POP RedirectPort: 110
+8/23/2014	9:52:27 PM	00000B40:   SMTP Start: 1
+8/23/2014	9:52:27 PM	00000B40:   SMTP RedirectPort: 25,587
+8/23/2014	9:52:27 PM	00000B40:   IMAP Start: 1
+8/23/2014	9:52:27 PM	00000B40:   IMAP RedirectPort: 143
+8/23/2014	9:52:27 PM	00000B40:   NNTP Start: 1
+8/23/2014	9:52:27 PM	00000B40:   NNTP RedirectPort: 119
+8/23/2014	9:52:27 PM	00000B40:   POPs Start: 1
+8/23/2014	9:52:27 PM	00000B40:   POPs RedirectPort: 995
+8/23/2014	9:52:27 PM	00000B40:   SMTPs Start: 1
+8/23/2014	9:52:27 PM	00000B40:   SMTPs RedirectPort: 465
+8/23/2014	9:52:27 PM	00000B40:   IMAPs Start: 1
+8/23/2014	9:52:27 PM	00000B40:   IMAPs RedirectPort: 993
+8/23/2014	9:52:27 PM	00000B40:   NNTPs Start: 1
+8/23/2014	9:52:27 PM	00000B40:   NNTPs RedirectPort: 563
+8/24/2014	12:19:43 AM	000008E0:   Started, Log = 1
+8/24/2014	12:19:43 AM	000008E0:   Build 9.0.2018
+8/24/2014	12:19:43 AM	000008E0:   OS Windows 8 Workstation
+8/24/2014	12:19:43 AM	000008E0:   AutoRedirect 1
+8/24/2014	12:19:43 AM	000008E0:   POP RedirectPort: 110
+8/24/2014	12:19:43 AM	000008E0:   SMTP RedirectPort: 25,587
+8/24/2014	12:19:43 AM	000008E0:   IMAP RedirectPort: 143
+8/24/2014	12:19:43 AM	000008E0:   NNTP RedirectPort: 119
+8/24/2014	12:19:43 AM	000008E0:   POPs RedirectPort: 995
+8/24/2014	12:19:43 AM	000008E0:   SMTPs RedirectPort: 465
+8/24/2014	12:19:43 AM	000008E0:   IMAPs RedirectPort: 993
+8/24/2014	12:19:43 AM	000008E0:   NNTPs RedirectPort: 563
+8/24/2014	12:19:43 AM	000008E0:   IgnoreLocalhost 1
+8/24/2014	12:19:43 AM	000008E0:   ScanSSL 1
+8/24/2014	12:19:43 AM	000008E0:   POP Start: 1
+8/24/2014	12:19:43 AM	000008E0:   POP RedirectPort: 110
+8/24/2014	12:19:43 AM	000008E0:   SMTP Start: 1
+8/24/2014	12:19:43 AM	000008E0:   SMTP RedirectPort: 25,587
+8/24/2014	12:19:44 AM	000008E0:   IMAP Start: 1
+8/24/2014	12:19:44 AM	000008E0:   IMAP RedirectPort: 143
+8/24/2014	12:19:44 AM	000008E0:   NNTP Start: 1
+8/24/2014	12:19:44 AM	000008E0:   NNTP RedirectPort: 119
+8/24/2014	12:19:44 AM	000008E0:   POPs Start: 1
+8/24/2014	12:19:44 AM	000008E0:   POPs RedirectPort: 995
+8/24/2014	12:19:44 AM	000008E0:   SMTPs Start: 1
+8/24/2014	12:19:44 AM	000008E0:   SMTPs RedirectPort: 465
+8/24/2014	12:19:44 AM	000008E0:   IMAPs Start: 1
+8/24/2014	12:19:44 AM	000008E0:   IMAPs RedirectPort: 993
+8/24/2014	12:19:44 AM	000008E0:   NNTPs Start: 1
+8/24/2014	12:19:44 AM	000008E0:   NNTPs RedirectPort: 563
+8/25/2014	4:09:26 PM	000007CC:   Started, Log = 1
+8/25/2014	4:09:26 PM	000007CC:   Build 9.0.2018
+8/25/2014	4:09:26 PM	000007CC:   OS Windows 8 Workstation
+8/25/2014	4:09:26 PM	000007CC:   AutoRedirect 1
+8/25/2014	4:09:26 PM	000007CC:   POP RedirectPort: 110
+8/25/2014	4:09:26 PM	000007CC:   SMTP RedirectPort: 25,587
+8/25/2014	4:09:26 PM	000007CC:   IMAP RedirectPort: 143
+8/25/2014	4:09:26 PM	000007CC:   NNTP RedirectPort: 119
+8/25/2014	4:09:26 PM	000007CC:   POPs RedirectPort: 995
+8/25/2014	4:09:26 PM	000007CC:   SMTPs RedirectPort: 465
+8/25/2014	4:09:26 PM	000007CC:   IMAPs RedirectPort: 993
+8/25/2014	4:09:26 PM	000007CC:   NNTPs RedirectPort: 563
+8/25/2014	4:09:26 PM	000007CC:   IgnoreLocalhost 1
+8/25/2014	4:09:26 PM	000007CC:   ScanSSL 1
+8/25/2014	4:09:26 PM	000007CC:   POP Start: 1
+8/25/2014	4:09:26 PM	000007CC:   POP RedirectPort: 110
+8/25/2014	4:09:26 PM	000007CC:   SMTP Start: 1
+8/25/2014	4:09:26 PM	000007CC:   SMTP RedirectPort: 25,587
+8/25/2014	4:09:26 PM	000007CC:   IMAP Start: 1
+8/25/2014	4:09:26 PM	000007CC:   IMAP RedirectPort: 143
+8/25/2014	4:09:26 PM	000007CC:   NNTP Start: 1
+8/25/2014	4:09:26 PM	000007CC:   NNTP RedirectPort: 119
+8/25/2014	4:09:26 PM	000007CC:   POPs Start: 1
+8/25/2014	4:09:26 PM	000007CC:   POPs RedirectPort: 995
+8/25/2014	4:09:26 PM	000007CC:   SMTPs Start: 1
+8/25/2014	4:09:26 PM	000007CC:   SMTPs RedirectPort: 465
+8/25/2014	4:09:26 PM	000007CC:   IMAPs Start: 1
+8/25/2014	4:09:26 PM	000007CC:   IMAPs RedirectPort: 993
+8/25/2014	4:09:26 PM	000007CC:   NNTPs Start: 1
+8/25/2014	4:09:26 PM	000007CC:   NNTPs RedirectPort: 563
+8/26/2014	6:12:09 PM	000007CC:   Stopped
+8/26/2014	10:12:30 PM	000002FC:   Started, Log = 1
+8/26/2014	10:12:30 PM	000002FC:   Build 9.0.2018
+8/26/2014	10:12:30 PM	000002FC:   OS Windows 8 Workstation
+8/26/2014	10:12:30 PM	000002FC:   AutoRedirect 1
+8/26/2014	10:12:30 PM	000002FC:   POP RedirectPort: 110
+8/26/2014	10:12:30 PM	000002FC:   SMTP RedirectPort: 25,587
+8/26/2014	10:12:30 PM	000002FC:   IMAP RedirectPort: 143
+8/26/2014	10:12:30 PM	000002FC:   NNTP RedirectPort: 119
+8/26/2014	10:12:30 PM	000002FC:   POPs RedirectPort: 995
+8/26/2014	10:12:30 PM	000002FC:   SMTPs RedirectPort: 465
+8/26/2014	10:12:30 PM	000002FC:   IMAPs RedirectPort: 993
+8/26/2014	10:12:30 PM	000002FC:   NNTPs RedirectPort: 563
+8/26/2014	10:12:30 PM	000002FC:   IgnoreLocalhost 1
+8/26/2014	10:12:30 PM	000002FC:   ScanSSL 1
+8/26/2014	10:12:30 PM	000002FC:   POP Start: 1
+8/26/2014	10:12:30 PM	000002FC:   POP RedirectPort: 110
+8/26/2014	10:12:30 PM	000002FC:   SMTP Start: 1
+8/26/2014	10:12:30 PM	000002FC:   SMTP RedirectPort: 25,587
+8/26/2014	10:12:30 PM	000002FC:   IMAP Start: 1
+8/26/2014	10:12:30 PM	000002FC:   IMAP RedirectPort: 143
+8/26/2014	10:12:30 PM	000002FC:   NNTP Start: 1
+8/26/2014	10:12:30 PM	000002FC:   NNTP RedirectPort: 119
+8/26/2014	10:12:30 PM	000002FC:   POPs Start: 1
+8/26/2014	10:12:30 PM	000002FC:   POPs RedirectPort: 995
+8/26/2014	10:12:30 PM	000002FC:   SMTPs Start: 1
+8/26/2014	10:12:30 PM	000002FC:   SMTPs RedirectPort: 465
+8/26/2014	10:12:30 PM	000002FC:   IMAPs Start: 1
+8/26/2014	10:12:30 PM	000002FC:   IMAPs RedirectPort: 993
+8/26/2014	10:12:30 PM	000002FC:   NNTPs Start: 1
+8/26/2014	10:12:30 PM	000002FC:   NNTPs RedirectPort: 563
+8/26/2014	10:42:06 PM	0000023C:   Started, Log = 1
+8/26/2014	10:42:06 PM	0000023C:   Build 9.0.2018
+8/26/2014	10:42:06 PM	0000023C:   OS Windows 8 Workstation
+8/26/2014	10:42:06 PM	0000023C:   AutoRedirect 1
+8/26/2014	10:42:06 PM	0000023C:   POP RedirectPort: 110
+8/26/2014	10:42:06 PM	0000023C:   SMTP RedirectPort: 25,587
+8/26/2014	10:42:06 PM	0000023C:   IMAP RedirectPort: 143
+8/26/2014	10:42:06 PM	0000023C:   NNTP RedirectPort: 119
+8/26/2014	10:42:06 PM	0000023C:   POPs RedirectPort: 995
+8/26/2014	10:42:06 PM	0000023C:   SMTPs RedirectPort: 465
+8/26/2014	10:42:06 PM	0000023C:   IMAPs RedirectPort: 993
+8/26/2014	10:42:06 PM	0000023C:   NNTPs RedirectPort: 563
+8/26/2014	10:42:06 PM	0000023C:   IgnoreLocalhost 1
+8/26/2014	10:42:06 PM	0000023C:   ScanSSL 1
+8/26/2014	10:42:06 PM	0000023C:   POP Start: 1
+8/26/2014	10:42:06 PM	0000023C:   POP RedirectPort: 110
+8/26/2014	10:42:06 PM	0000023C:   SMTP Start: 1
+8/26/2014	10:42:06 PM	0000023C:   SMTP RedirectPort: 25,587
+8/26/2014	10:42:06 PM	0000023C:   IMAP Start: 1
+8/26/2014	10:42:06 PM	0000023C:   IMAP RedirectPort: 143
+8/26/2014	10:42:06 PM	0000023C:   NNTP Start: 1
+8/26/2014	10:42:06 PM	0000023C:   NNTP RedirectPort: 119
+8/26/2014	10:42:06 PM	0000023C:   POPs Start: 1
+8/26/2014	10:42:06 PM	0000023C:   POPs RedirectPort: 995
+8/26/2014	10:42:06 PM	0000023C:   SMTPs Start: 1
+8/26/2014	10:42:06 PM	0000023C:   SMTPs RedirectPort: 465
+8/26/2014	10:42:06 PM	0000023C:   IMAPs Start: 1
+8/26/2014	10:42:06 PM	0000023C:   IMAPs RedirectPort: 993
+8/26/2014	10:42:06 PM	0000023C:   NNTPs Start: 1
+8/26/2014	10:42:06 PM	0000023C:   NNTPs RedirectPort: 563

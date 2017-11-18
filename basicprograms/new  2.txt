@@ -1,0 +1,1607 @@
+run:
+log4j:WARN No appenders could be found for logger (twitter4j.conf.ConfigurationBase).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Text: RT @nanditathhakur: #PakFriendlyOmar is planning to give amnesty to Stone throwing youths involved in anti India activity
+User: MBChaudhary
+Sentiment: pos
+Text: India should go with sanjusamsung..he shown great character in ipl
+User: sikkubaba
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: RajeshTamret
+Sentiment: pos
+Text: Hahaa there is a place called "Dragon Mom Corner" which serves "Veg & Chicken Moms" Hahahaha http://t.co/7jbUQZPbgW
+User: AshpreetSethi
+Sentiment: pos
+Text: Now, Narendra Modi government plans to get you walking on a digital cloud http://t.co/EuuceFbAiY
+User: nikhilchopra11
+Sentiment: pos
+Text: @SriSri at a Conference on Stress Reduction Skills in Delhi, India today! http://t.co/UKVPD51PlG
+User: AOLUniverse
+Sentiment: pos
+Text: . @goldenpeak24 this is the source of the photo https://t.co/nOggIJwb3m .. still don't get the sycophancy comment @PatelSaral007 @gsurya
+User: free_thinker
+Sentiment: pos
+Text: @HarperCollinsIN With books on Politicians and Films on Sport Celebrities, India is on its route to be America...isnt't it?
+User: anantawasthi21
+Sentiment: pos
+Text: Please imagine your future. Is this the world you think it should be? http://t.co/o5tT5nInny #Singapore #India
+User: hirochii0
+Sentiment: pos
+Text: @ilove1stephanie girls raped and hung. India govt Minister says rape “sometimes right”! Sign to demand action  https://t.co/YZ88LDQABQ
+User: lamommusic
+Sentiment: pos
+Text: BJP Offered Me Delhi Chief Minister's Post: Kumar Vishwas: Aam Aadmi Party (AAP) leader Kumar Vishwas said on ... http://t.co/RC9UhKy3ZL
+User: AnandMaskara
+Sentiment: pos
+Text: THT - What dispute? India and China ignore land squabble http://t.co/QGzOf1OFtw
+User: Nepal_News_En
+Sentiment: pos
+Text: RT @dr_rajpurohit: प्रधानमंत्री मोदी ने SPG जवान को सबके सामने फटकारा http://t.co/JaaUnN978a 1/2
+User: iparthpatel
+Sentiment: pos
+Text: RT @MPNaveenJindal: Express train makes emergency halt
+2 ensure a passenger experiencing labour pain could be rushed
+to hospital. http://t.…
+User: Kuldeep198Singh
+Sentiment: pos
+Text: RT @TheGrownManBlog: AUDIO NEWS By theGAM- Syria war Creep-CA Kill Switch-French Infighting-Japan FightsChina over India-Texas Schools http…
+User: ATTRASustaiAngr
+Sentiment: pos
+Text: RT @doctoratlarge: Both the right wing and the liberals in India are equally fanatic. But the right wing is dumber, which makes the liberal…
+User: rohitagarwal86
+Sentiment: pos
+Text: 真の経済学は、決して人間のための崇高な倫理に背くものではない。(『ガンディー 魂の言葉』)
+User: india_precious
+Sentiment: pos
+Text: 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark: Rejecting Prime… http://t.co/oIhrO6ksxG
+User: Satanic_ProwL
+Sentiment: pos
+Text: BJP Offered Me Delhi Chief Minister's Post: Kumar Vishwas: Aam Aadmi Party (AAP) leader… http://t.co/9KtZhk8dAc
+User: Satanic_ProwL
+Sentiment: pos
+Text: Foreign Media on PM Narendra Modi's Rebuke to Pakistan: Prime Minister Narendra Modi… http://t.co/8jxA67tnyK
+User: Satanic_ProwL
+Sentiment: pos
+Text: @Swissotel_SKO Connect to tourists and travelers to #BeautifulBengal #Kolkata. RT and Follow @TourismBengal Dept of Tourism Govt of WB India
+User: TourismBengal
+Sentiment: pos
+Text: @thetanmay sometimes I wonder if India is ready for that kind of humour
+User: Aniruddha_N
+Sentiment: pos
+Text: @WSJ this the most absurb thing you have put up. Shocking wsj. Heh visit india, pakistan, mexico to see the dirtiest. Bangkok heh. Nice one.
+User: rajivemiranda
+Sentiment: pos
+Text: "@WW1DAlerts: Harry spitting water on stage at last night's concert in Chicago! (29/08/2014)- https://t.co/Q7eEN902NZ"
+User: 1D_of_India
+Sentiment: pos
+Text: PM going to keep step in Osaka to make Japan's technology to come to India
+User: Goldy3517
+Sentiment: pos
+Text: ITS 1.39 IN INDIA AND I HAVE NOT TAKEN A BATH SINCE MORNING 
+#LIAMHANGOVERFOLLOWPARTY
+User: Leeroy_xxx
+Sentiment: pos
+Text: RT @bst_official: A great opportunity to join best educational institute of India http://t.co/iSaKptTc2J
+User: SanjayAmala
+Sentiment: pos
+Text: RT @Chellaney: "It is hard to recall a time in recent years when the visit of a foreign leader has been so eagerly awaited in Japan" http:/…
+User: hariaiyer
+Sentiment: pos
+Text: Love jihad in Madhya Pradesh: Two booked for forcing wives to embrace Islam http://t.co/3AEng3i7UA via @timesofindia
+User: JasumatiPatel
+Sentiment: pos
+Text: RT @IamSharimRK: Amul - D Taste Of India
+
+Colgate - D Paste Of India
+
+Salman - D Waste Of India
+
+SRK -  #SRKPrideOfIndia
+User: iam_shehzad
+Sentiment: pos
+Text: RT @timesofindia: Violence in Muzaffarnagar: 4 boys attacked by a group of people  http://t.co/b6lFqa6Qrd
+User: amandhillion
+Sentiment: pos
+Text: England v India 3rd ODI Betting: India outstanding value https://t.co/HBbHBZUuKX
+User: cricketbetting
+Sentiment: pos
+Text: RT @newsflicks: #women can make India richer by $500 billion--and more. Full story here http://t.co/4gSuRywy2Q http://t.co/CLOFzAhF7y
+User: ajayleedsleo
+Sentiment: pos
+Text: #India’s #SugarCane and #CottonProduction for 2013-14 as per latest estimates released on 14th August 2014.
+http://t.co/fCZ1QAPH15
+User: jhunjhunwalas4u
+Sentiment: pos
+Text: RT @doctoratlarge: Both the right wing and the liberals in India are equally fanatic. But the right wing is dumber, which makes the liberal…
+User: rahulgrover88
+Sentiment: pos
+Text: RT @simarp: At @MapsofIndia we are chasing "achehe din" 96 days done. Each Day has been documented / @narendramodi & @PMOIndia http://t.co/…
+User: MapsofIndia
+Sentiment: pos
+Text: RT @ajit_ranade: 1.75 lakh total. state-wise number of factories in india. Tamil Nadu beats Maharashtra. via @IndianExpress http://t.co/oVu…
+User: rampa_hampikere
+Sentiment: pos
+Text: #BukaJasaTTIminatPMBachemeDotID lebih suka lagu korea atau lagu india?
+User: kamakshi772_
+Sentiment: pos
+Text: प्रधानमंत्री मोदी ने SPG जवान को सबके सामने फटकारा http://t.co/JaaUnN978a 1/2
+User: dr_rajpurohit
+Sentiment: pos
+Text: Education In Web Designing & Computer Diploma (India): Be a Website Designer. Start your own website designing... http://t.co/myVnWXWrT7
+User: Qtelltrader
+Sentiment: pos
+Text: RT @Chellaney: If Pakistan insists on meeting its Hurriyat stooges, India must reciprocally meet Baloch & Gilgit separatists in Pak: http:/…
+User: blitzcloud87
+Sentiment: pos
+Text: Of all the logos @MumbaiCityFC hv got it spot on. D train connects wit every mumbaikar. #brilliant #HeroISL @Goal_India @IndSuperLeague
+User: ankitkothari040
+Sentiment: pos
+Text: RT @ZeeNews: Tara Shahdeo case: Rakibul Hussain supplied girls to bigwigs, says Jharkhand Police
+http://t.co/4H4dDVrCF5
+User: jkg59
+Sentiment: pos
+Text: RT @nanditathhakur: #PakFriendlyOmar taunted the GOI saying that Pak would not stop its anti-India operations unless the so-called Kashmir …
+User: NitinKapoor2020
+Sentiment: pos
+Text: Fernando Torres puts himself and Chelsea out of jail - Zee News http://t.co/PceMgSTaPQ
+User: india_breaking
+Sentiment: pos
+Text: Paes-Stepanek in third round of US Open - Deccan Herald http://t.co/7PoTht6rAY
+User: india_breaking
+Sentiment: pos
+Text: RT @ndtv: Fast track courts for crimes against women in UP http://t.co/fVeTmSCo75
+User: nikhilchopra11
+Sentiment: pos
+Text: GDP rises 5.7% in April-June, fastest growth in 9 quarters - Times of India http://t.co/cRthiZzXCD #BigDataElectricity
+User: BigDataRetweet
+Sentiment: pos
+Text: Representative Medical in India: medical representative, grade, deepak, second, office boy, here http://t.co/zDIJyODNJw
+User: searchresume
+Sentiment: pos
+Text: @GasJeansIndia @67Shakey @Viber_India @TheRahulMehra @AEGONReligare @RelianceMobile @_ManuSharma_ @CNBCTV18Live  #GASJeansIndia #MotoGP
+User: satyendragoldd
+Sentiment: pos
+Text: @Sudeshna84 Just go to Knight Frank website and download their latest India real estate report. It has all the data you will need
+User: kaul_vivek
+Sentiment: pos
+Text: Belgium, Bolivia, Canada, India & Malawi investigating possible cases of #Ebola Virus.
+
+http://t.co/Yvp7lcWXEa
+User: kevduffey
+Sentiment: pos
+Text: @GyanduBaba a sad day in the history of India. . One billion people subject to torture at the same time.
+User: mathiasmelvin01
+Sentiment: pos
+Text: Many happy returns for Roger Federer at US Open - Hindustan Times http://t.co/RkjIqcO8j6
+User: india_breaking
+Sentiment: pos
+Text: RT @rupasubramanya: NYT "researcher" from SAsia desk so presumably covers India, retweeting praise for Jain's pc. Did she even read it?! ht…
+User: ManishMig
+Sentiment: pos
+Text: PK London oscar india http://t.co/kVEoOUp0Fl
+User: NiellAritonang
+Sentiment: pos
+Text: Indian elephant creates own art http://t.co/qQSKMTQUAq
+User: thstnqlsl12
+Sentiment: pos
+Text: @stephaniemania girls raped and hung. India govt Minister says rape “sometimes right”! Sign to demand action  https://t.co/tz14xchXch
+User: lamommusic
+Sentiment: pos
+Text: #runchat Caroline Wozniacki ready for marathon run - Times of India http://t.co/dVRL5XEPBe
+User: GetOutDoMore
+Sentiment: pos
+Text: RT @htTweets: #BJP rubbishes Kumar Vishwas' CM post claim as political stunt http://t.co/fU71Wcf3A7 http://t.co/on6NmUrcRx
+User: NewsToday2Share
+Sentiment: pos
+Text: How on tasteful la effects seo india established!: NZd http://t.co/XfXhnflyRi
+User: ToddDenise1
+Sentiment: pos
+Text: RT @InnovationIndia: @ltsague help us boost India’s social impact! Refer a #socent  #socdev for catalytic scaleup. Details on http://t.co/x…
+User: ltsague
+Sentiment: pos
+Text: RT @ZeeNewsHindi: अब से पहले इतना महत्वपूर्ण नहीं रहा अमेरिकी नेतृत्व : ओबामा
+http://t.co/OeN7vqIpJr
+User: GSUNEER
+Sentiment: pos
+Text: Drc systems - the defeat Алгол blossoming consortship india, provides website thematic development other thematic... http://t.co/hnKVnOiKGg
+User: GilbertBrown8
+Sentiment: pos
+Text: RT @Trustnamo: #PakFriendlyOmar Funny but pointed ! @narendramodi and @abdullah_omar on Art. 370 of Indian Constitution. http://t.co/d41pm0…
+User: hamara_india
+Sentiment: pos
+Text: @andyroddick Happy Birthday man.! Greetings from India. #FANFORLIFE http://t.co/dKFczvrZHc
+User: NachuBhatt
+Sentiment: pos
+Text: 15 பாகிஸ்தான் தீவிரவாதிகள் ராஜஸ்தான் வழியாக ... - தினத் தந்தி http://t.co/C6e2zGpqWY
+User: 757LiveTamil
+Sentiment: pos
+Text: Justin pls follow @cokrosteven Lebih suka film India / drama korea ?
+User: Feri_mjf
+Sentiment: pos
+Text: RT @Asif_AAP: @Prerna_India @KanchanDNA भारत की सबसेबड़ी prob यही है की मुद्दे को छोड़ के जिसने मुद्दा उठाया है उसके पीछे लग जाते है.मुद्दा…
+User: dr_deepak78
+Sentiment: pos
+Text: @TraxFMJKT ah seneng! Bahas comeback SJ nya panjaaaang, klo gue denger nya bukan ala2 India di awal, tapi berasa dangdutan masa
+User: indahsar17
+Sentiment: pos
+Text: RT @ZeeNewsHindi: अब से पहले इतना महत्वपूर्ण नहीं रहा अमेरिकी नेतृत्व : ओबामा
+http://t.co/OeN7vqIpJr
+User: Arunpandeya1
+Sentiment: pos
+Text: Prime Minister Narendra Modi arrives in Japan:  Kyoto: Indian Prime Minister Narendra Modi arrived here on Sat... http://t.co/Gq16e0Irk1
+User: akritiverma2
+Sentiment: pos
+Text: @abpnewstv @DrKumarVishwas Joke of the year. One way to tell people that I am back in India.
+User: KantShachi
+Sentiment: pos
+Text: AAPâs Vishwas says BJP offered him CMâs post to switch over:  New Delhi:  Aam Aadmi Party leader Kumar Vis... http://t.co/KNc5sQNzk5
+User: akritiverma2
+Sentiment: pos
+Text: RT @bsindia: Should govt tighten cyber security before rolling out Digital India, Jan Dhan Yojana? experts think so http://t.co/tBa8xSAkvX
+User: sethusamudramN
+Sentiment: pos
+Text: RT @UNIDO: India's economic growth hits two year high http://t.co/VWcCq8urlD
+User: Ucena53
+Sentiment: pos
+Text: Writers in India: Art publisher is ‘an international fraud’ -  When US companies hire outside contractors in... http://t.co/lrzXE0nwlJ
+User: NewYerkPost
+Sentiment: pos
+Text: Rolls Royce to set set up R & D centre in Bangalore, India..
+Rolls-Royce looking to set up an R http://t.co/cmsa2MGu3e
+User: usmuk
+Sentiment: pos
+Text: @leansocialism IN INDIA ALL SUBSIDIES ARE BEING MISUSED GREATLY BY SO-CALLED POOR. REAL POOR IN INTERIOR VILLAGES NEVER GET SUBSIDIES.
+User: divili2012
+Sentiment: pos
+Text: India mai ap ki favrt actress kn kn c sb frndz btaye Ans plz  03014542385
+User: pfc4all
+Sentiment: pos
+Text: RT @nanditathhakur: #PakFriendlyOmar taunted the GOI saying that Pak would not stop its anti-India operations unless the so-called Kashmir …
+User: MBChaudhary
+Sentiment: pos
+Text: PM Narendra Modi's statement on his visit to Japan http://t.co/DJAwBOIdxE
+User: nikhilchopra11
+Sentiment: pos
+Text: India signed Loan Agreements with World for IDA assistance Mizoram State Roads Project.
+User: tweetpur
+Sentiment: pos
+Text: Minimum government maximum governance. What it means for India's PSU Banks. http://t.co/XywkIr6S26
+User: RajivBLall
+Sentiment: pos
+Text: RT @nanditathhakur: #PakFriendlyOmar taunted the GOI saying that Pak would not stop its anti-India operations unless the so-called Kashmir …
+User: TORUKH_MAKTO
+Sentiment: pos
+Text: Second, Microsoft mails don't run on Microsoft mobiles. just like u can't get good curry in India.!! @Microsoft
+User: AugustineSabu1
+Sentiment: pos
+Text: RT @ZeeNews: Indian American scientist invented e-mail 32 years ago
+http://t.co/jvbL572bhf
+User: RKrishnasingh39
+Sentiment: pos
+Text: GORI GOLGAPPA  (http://t.co/e9t3ei9hKn): http://t.co/0lXBbJyx4i India needs a proper sex education. This is half knowledge
+User: geophyraj
+Sentiment: pos
+Text: RT @IndiaToday: Historian Bipan Chandra dies at 86
+http://t.co/5xHRZl8dJr
+User: ajayleedsleo
+Sentiment: pos
+Text: Whatever the occasion, we have a journal to suit your needs! Shop till September 1 and get 15% off your purchase! http://t.co/1w4RB12aY7
+User: TEC_India
+Sentiment: pos
+Text: RT @upma23: #PakFriendlyOmar They never blame Geelani for instigating youngsters to become stone peltors and shout anti-India slogans.
+User: NitinKapoor2020
+Sentiment: pos
+Text: RT @Britanniacomms: We do love it but #India is MAD ! http://t.co/kcseFg1aF2 #travel #photography
+User: clifflouiemadar
+Sentiment: pos
+Text: #wifi_id AirAsia launches free user trial of on board Wi-Fi service - Times of India http://t.co/ipeN6wlQZs
+User: wifiIndonesia
+Sentiment: pos
+Text: @yildizsamanyolu girls raped and hung. India govt Minister says rape “sometimes right”! Sign to demand action  https://t.co/tz14xchXch
+User: lamommusic
+Sentiment: pos
+Text: Trained seo services conglomerate passage india: dEvV
+User: BensonHeather1
+Sentiment: pos
+Text: All India News- Sexual harassment at Visva-Bharati: Attempt to hush up case? http://t.co/zALuW8qzMB
+User: punelocalnews
+Sentiment: pos
+Text: RT @deolsingh28: Freedom is must from indian's for our separate state Khalistan,we must fight politicaly independence ,india must divided.K…
+User: HinduHarami
+Sentiment: pos
+Text: RT @BalaachMarri: ‘We (India) should also have the right to officially meet Baloch separatists on Pakistani soil’ Kanwal Sibal writes http:…
+User: RudraSakti
+Sentiment: pos
+Text: All the best team India, must win this series 4-0. Include sanju samson in the playing 11. @imVkohli @BCCI #IndvsEng
+User: TheGufranKhan
+Sentiment: pos
+Text: India memiliki populasi lebih dari 50 juta ekor kera di negaranya. #ilmupendek
+User: ilmupendek
+Sentiment: pos
+Text: #Mardaani is unstoppable..Total All India Biz Till Friday 26cr.. Hit
+User: taran_Sir
+Sentiment: pos
+Text: RT @YesIamSaffron: Indian Students one of the Major Contributors to US economy: Report @MrUTurn @ensine @ibps4u
+http://t.co/c1GuV9Bfbo http…
+User: Aravind072
+Sentiment: pos
+Text: RT @mainbhiengineer: BJP wanted to bring my "Achche Din" ~ India.
+User: anubhavtripathi
+Sentiment: pos
+Text: RT @CricketNDTV: #EngvsInd 3rd ODI: Back to Trent Bridge where the Jadeja-Anderson spat happened. Can India take unbeatable 2-0 lead? http:…
+User: mohdthajutheen
+Sentiment: pos
+Text: RT @MrScottEddy: Whale sharks found off Gujarat coast no expats, they are Indian - Times of India http://t.co/LwiDXceO9J #Expats #News
+User: stock_tradi5ngb
+Sentiment: pos
+Text: website designing company Digistreet- media is a progressive digital marketing agency company and seo company ... http://t.co/pmgpDwxBcD
+User: NeoRenu
+Sentiment: pos
+Text: RT @ZeeNews: Tara Shahdeo case: Rakibul Hussain supplied girls to bigwigs, says Jharkhand Police
+http://t.co/4H4dDVrCF5
+User: Against_Pseudos
+Sentiment: pos
+Text: #Job in #India - Urgent Opening in International Call Center call +91 8983419990. http://t.co/4GO1YL1Oko
+User: in_gigajob
+Sentiment: pos
+Text: #GanpatiBappaMorya,  cultural ethos of India, weaves us into one entity, vibrancy of the diversity of India, brand anthem #Bollywood, jai ho
+User: Chatty111Prasad
+Sentiment: pos
+Text: RT @vj2w: I really hope that the #ISL succeeds. #Football should be #India's No.1 sport. More fun than #cricket and a lot shorter.
+User: AbKumar1
+Sentiment: pos
+Text: TMC will consider tie-up from CPI-M if it so proposes, says Mamata via @Firstpost.com  http://t.co/7dAAvbxf2L
+User: ashokrodgi
+Sentiment: pos
+Text: Either Article 370 will exist or Jammu & Kashmir won't be a part of India says #PakFriendlyOmar, should we have such anti-national as CM.?
+User: thekinshu
+Sentiment: pos
+Text: #pakvslIndia vs England TV live stream >>>>http://t.co/ps5E0UE0wN
+India vs England TV live stream >>>>http://t.co/ps5E0UE0wN
+User: shinestar4231
+Sentiment: pos
+Text: RT @deepikapadukone: @OGQ_India: Sensational @Pvsindhu1 beats world number 2 wang shixian to book a place in the semis and the history book…
+User: DpskMyheartbeat
+Sentiment: pos
+Text: Cross-country runner covers 825km, reaches Jaipur - The Times of India on Mobile http://t.co/hf8RQ5MLFm via @timesofindia
+User: RajXSI
+Sentiment: pos
+Text: RT @nytimes: Woman Is First to Be Ruled Eligible for Asylum in U.S. on Basis of Domestic Abuse http://t.co/9vm7CpQWIT
+User: Trending_India
+Sentiment: pos
+Text: @littledutchva Is there any truth that Ronaldinho joining India Super League? #ISL #ChennaiTitans?
+User: agantait
+Sentiment: pos
+Text: RT @pardverma: AISA INDIA MEIN BOLNA BAN HAI... http://t.co/2ZEv24qkgZ
+User: nohicdrnic
+Sentiment: pos
+Text: RT @nandtara: "I don't know abt possibility of breakdown" says Piyush Goyal so with Coal stocks lowest since 2012 blackouts http://t.co/F7B…
+User: Preema27
+Sentiment: pos
+Text: What should be the Sikh response (alongside others i.e. human rights groups) to an inevitable visit to the UK by... http://t.co/A78zhnyPay
+User: SikhFedUK
+Sentiment: pos
+Text: #happy #weekend #muscat #oman #omani #igersoman igersoman #Philippines #india #asian #arab #usa… http://t.co/5OOd0V4AW4
+User: auroraustralis_
+Sentiment: pos
+Text: RT @delpieroale: News: In India - @DelhiDynamos @IndSuperLeague #Adp10 #HeroISL 
+http://t.co/BFLbLVkZDl
+http://t.co/xnIJnX9n5z
+User: rakespandey
+Sentiment: pos
+Text: BJP Offered Me Delhi Chief Minister's Post: Kumar Vishwas http://t.co/NgcPkW9D0z
+User: Amy____Jones
+Sentiment: pos
+Text: Today, India is the largest milk producing country in the world. While we hear about the success stories, there are …http://t.co/r4SLvzbh76
+User: RohiniUnni
+Sentiment: pos
+Text: RT @vivekkapoor111: Jignesh Shah is the biggest fraudster in India , now roaming free , Beware of next big SCAM  ! #NSEL #SCAM #lootedRs560…
+User: SjainSunil
+Sentiment: pos
+Text: These amazing pools are so inviting that you’ll feel like plunging into them right away: http://t.co/jFhDi8YGsb #ttot http://t.co/0PyQT26aW6
+User: ixigo
+Sentiment: pos
+Text: RT @Chellaney: If Pakistan insists on meeting its Hurriyat stooges, India must reciprocally meet Baloch & Gilgit separatists in Pak: http:/…
+User: HassanDilawri
+Sentiment: pos
+Text: England vs India Third ODI Live Blog http://t.co/ViDn4yXyFn
+User: Amy____Jones
+Sentiment: pos
+Text: BJP Offered Me Delhi Chief Minister's Post: Kumar Vishwas http://t.co/z6r5CKsDl7
+User: Marie____Taylor
+Sentiment: pos
+Text: BJP wanted to bring my "Achche Din" ~ India.
+User: mainbhiengineer
+Sentiment: pos
+Text: BJP Offered Me Delhi Chief Minister's Post: Kumar Vishwas http://t.co/lKN3H1boWx
+User: Amy____Jones
+Sentiment: pos
+Text: RT @DKMahant: Muslim man deserts his wife who is a school teacher. Says she attended I-Day function at school, violated Shariat law http://…
+User: ScamYuga
+Sentiment: pos
+Text: RT @nanditathhakur: #PakFriendlyOmar  converted the Monsoon Session of the State Legislature into an anti-India platform
+User: MBChaudhary
+Sentiment: pos
+Text: England vs India Third ODI Live Blog http://t.co/l45j437knp
+User: Marie____Taylor
+Sentiment: pos
+Text: #BJP rubbishes Kumar Vishwas' CM post claim as political stunt http://t.co/iFiOYI5dmD http://t.co/oDVvj02lq3
+User: Arunpandeya1
+Sentiment: pos
+Text: England vs India Third ODI Live Blog http://t.co/Oum6elLQKT
+User: Amy____Jones
+Sentiment: pos
+Text: RT @goyalsanjeev: Real issues which can make me see 
+> Arnab shouting
+> Barkha stopping bucks
+> Choubeyji Special edition of India@9 http:/…
+User: vinirish
+Sentiment: pos
+Text: @airasiain Is the free wi-fi trial period extended to Indian skies too?? http://t.co/wH5yyCtDiK
+User: Sing_Along_Life
+Sentiment: pos
+Text: Zen lug promoter computer technician invasive india: IdSk
+User: LewinRoy
+Sentiment: pos
+Text: India, US more popular than extremists | ePaper | http://t.co/A29rXJ3mh8 http://t.co/9AdnPbJIzn via @dawn_com #Pakistan
+User: DrTariqSohail
+Sentiment: pos
+Text: #Indian #SuryaRay BJP Offered Me Delhi Chief Minister's Post: Kumar Vishwas: Aam Aadmi Party... http://t.co/axCkycmYBV #Indian @SuryaRay
+User: Marie____Taylor
+Sentiment: pos
+Text: Disseminate irresistible 25th anschluss tricennial gifts towards india: gbYy
+User: DestinyBlare
+Sentiment: pos
+Text: INDIA'S WILDLIFE HISTORY: AN INTRODUCTION NEW EDITION (PAPERBACK)  Author: Mahesh Rangarajan  Publis http://t.co/dgnwjFKMVn
+User: Lelobooks
+Sentiment: pos
+Text: RT @IndiaToday: Prime Minister Narendra Modi arrives in Japan
+http://t.co/kleZQDi6Ec
+User: ajayleedsleo
+Sentiment: pos
+Text: They weren’t wrong when they said that the way to a woman’s heart is through her SOLE. RT if you agree. #ShoesExpress http://t.co/H131UJMvk4
+User: BATA_India
+Sentiment: pos
+Text: @BlabberingSoul India ko FAKR honi chahiye ki unka PM bachpan mein Japan jaise industrializd nation ke bullet trains banaaye the
+User: rajsban
+Sentiment: pos
+Text: RT @juniorbachchan: .@WhatTheFFacts: There is a professional "tag" league played in India.- NO. We have and ancient sport called KABADDI!!!…
+User: ashiquerr
+Sentiment: pos
+Text: RT @NSONICcom: →Facebook←
+
+@KCC_INDIA #엔소닉 #NSONIC 2/3 
+https://t.co/76bMqf5i9q http://t.co/FTObqUni6e http://t.co/LyVFggFkh1
+User: tite_sindy
+Sentiment: pos
+Text: http://t.co/fGgh2CjQKc can see another leader narendra modi creating india inc@mediacrooks
+User: santhoshsoes
+Sentiment: pos
+Text: @mavalos96 Girls raped & hung. India govt Minister says rape “sometimes right”! Sign to demand action @narendramodi https://t.co/tz14xchXch
+User: lamommusic
+Sentiment: pos
+Text: #Indian #SuryaRay England vs India Third ODI Live Blog: After an inspired performance from... http://t.co/3QfTT75aMv #Indian @SuryaRay
+User: Marie____Taylor
+Sentiment: pos
+Text: Priyanka Chopra along with Yo Yo Honey Singh on India's Raw Star http://t.co/UXe74exS5Q
+User: serialdaily
+Sentiment: pos
+Text: India's Raw Star - A face off between Mohan and Jeffrey - Desi vs Pardesi. Watch this amazing face off between Moh... http://t.co/sRUe4pzIHX
+User: serialdaily
+Sentiment: pos
+Text: India's Raw Star - Rituraj's mesmerising performance! - Once again, Rituraj enthalls everyone with his brilliant p... http://t.co/GhO49T0yd7
+User: serialdaily
+Sentiment: pos
+Text: RT @BhupenKBorah: Congress MLAs protest in Tripura over "indecent" remarks by Chief Minister Manik Sarkar towards the judiciary
+http://t.co…
+User: abdur1516
+Sentiment: pos
+Text: The last hurrah on the #train back to #Jaipur, leaving my lovelies off at #Jodpur. #india #travel #team http://t.co/SranMGYlax
+User: nicolamlyons
+Sentiment: pos
+Text: Standard trends as regards the manufacturing installment ingoing india: DsK
+User: BenjaminHayden3
+Sentiment: pos
+Text: RT @BalaachMarri: ‘We (India) should also have the right to officially meet Baloch separatists on Pakistani soil’ Kanwal Sibal writes http:…
+User: MHBugti
+Sentiment: pos
+Text: RT @bibekdebroy: ‘SpiceJet hid incidents, made risky pilot trainer’ http://t.co/vL9RL1vWzP
+User: tusharkatira
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: RahulGandhy
+Sentiment: pos
+Text: RT @htTweets: #BJP rubbishes Kumar Vishwas' CM post claim as political stunt http://t.co/fU71Wcf3A7 http://t.co/on6NmUrcRx
+User: n0m_nom
+Sentiment: pos
+Text: Schoolgirl found dead under mysterious circumstances in Hisar http://t.co/kFRbYwPQRd
+User: News_Of_time
+Sentiment: pos
+Text: Grab #Awesome Titles From @CampfireComics At The #Blore #ComicCon!Tkts At http://t.co/UXbrCfz75H #3MostAwesomeDaysOfTheYear #EventOfTheYear
+User: ComicConIndia
+Sentiment: pos
+Text: Sir india have good technology but because of certain reason road and higjw work getting delay and ppl suffer cause pls note.@nitin_gadkari
+User: KotadiyaNilesh
+Sentiment: pos
+Text: #beauty #makeup Alia Bhatt on beauty products: Don't compromise on quality - Times of India http://t.co/fgcoUpLEjX
+User: MakeOver2013
+Sentiment: pos
+Text: RT @ZeeNews: Remove encroachments within "NCZ" along Kaliasot river: NGT
+http://t.co/M24yGRC0N2
+User: Th3Singh
+Sentiment: pos
+Text: Kinky English MILFs - The kinky English MILF and India have fun in today's free set from Miss Hybrid. http://t.co/LARiV8ccuV
+User: sizzlinghotlegs
+Sentiment: pos
+Text: RT @bsindia: Should govt tighten cyber security before rolling out Digital India, Jan Dhan Yojana? experts think so http://t.co/tBa8xSAkvX
+User: KrishnaUdeshi
+Sentiment: pos
+Text: Violence in Muzaffarnagar: 4 boys attacked by a group of people 
+http://t.co/BgmA6Rq3GM via @timesofindia
+User: shadabaltamash
+Sentiment: pos
+Text: RT @FastCompany: The insane growth of China and India's megacities, mapped through
+satellite imagery ➤ http://t.co/0dTOoCbebD
+User: TourismPlan
+Sentiment: pos
+Text: RT @TheGrownManBlog: AUDIO NEWS By theGAM- Syria war Creep-CA Kill Switch-French Infighting-Japan FightsChina over India-Texas Schools http…
+User: CurtisCornettz
+Sentiment: pos
+Text: RT @MrScottEddy: Whale sharks found off Gujarat coast no expats, they are Indian - Times of India http://t.co/LwiDXceO9J #Expats #News
+User: Health_Brokero
+Sentiment: pos
+Text: This is why being an independent country is so bad! Let's trust ourselves,India's growth hits two year high http://t.co/I1V5FHVtzH
+User: allan1874
+Sentiment: pos
+Text: @the_hindu @KolkataConnect "I hate him, U hate her....lets marry" God save India frm this sickular attitude.
+User: asharora75
+Sentiment: pos
+Text: Fernando Torres puts himself and Chelsea out of jail - Zee News http://t.co/IUweA7mRuQ
+User: cricket_jokes
+Sentiment: pos
+Text: Canada Minister to visit India for four days: The president of the Treasury Board of Canada, Tony Clement, wil... http://t.co/4BP8QPSDY9
+User: torontotel
+Sentiment: pos
+Text: @ZaidZamanHamid if he became defence minster.. off india tou gya.. 😝
+User: ssmugl3r
+Sentiment: pos
+Text: Laws and Bare Acts of India: The Public Gambling Act,1867 http://t.co/HH9QAw4FNB
+User: mynationtwits
+Sentiment: pos
+Text: RT @doctoratlarge: So India Today calls Chetan Bhagat a one man industry. I agree. Just like Sunny Leone is a one woman industry
+User: aarkay_81
+Sentiment: pos
+Text: #India new #Job : Urgent Opening in International Call Center call +91 8983419990. http://t.co/NXUpJ3LarV
+User: in_gigajob
+Sentiment: pos
+Text: Amie excepting minor orders re engineers (india): aoqG http://t.co/JEHBAAL0u2
+User: TylerAbramson
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: rajs51
+Sentiment: pos
+Text: RT @pratyasharath: CPI(M) is ready for an alliance with Mamata if she apologizes!! Yes, the custodians of the politics of Idealism and mora…
+User: AjEeTj_20
+Sentiment: pos
+Text: RT @Chellaney: The Pakistani high commissioner is lucky India has not expelled him for brazenly flouting the Foreign Office advice: http://…
+User: sreelaw
+Sentiment: pos
+Text: website designing company, India, Business Offers, Services - 230922 http://t.co/wYPOcMuPIZ via @sharethis
+User: NeoRenu
+Sentiment: pos
+Text: Laws and Bare Acts of India: Section 78 - The Trade Marks Act, 1999 http://t.co/v54LQ65Pcg
+User: mynationtwits
+Sentiment: pos
+Text: Photographer Gives Us an Inside Look at Meghalaya, India, ‘The Wettest Place On Earth’ http://t.co/hBbYF9Mzor
+User: SHANBHAGSATHYA
+Sentiment: pos
+Text: RT @ZeeNewsHindi: 60 लाख का क्राउन लेकर म्यांमार की पहली ब्यूटी क्वीन फरार
+http://t.co/TjMSUJrPoM http://t.co/BWvHGa9x7J
+User: GSUNEER
+Sentiment: pos
+Text: RT @ShekharGupta: #NationalInterest @IndiaToday 'Bijli aur maut ka kya bharosa, kab aa jaye' 
+http://t.co/EgRovGHhV8 http://t.co/JNlfzBR3q1
+User: deepakhgandhi
+Sentiment: pos
+Text: RT @1robertdrew: Your backpacking in #India ain't legit if you missed the #Taj Mahal.
+#hiking #backpacking #life http://t.co/OI7pe8flAu
+User: ko4egar0
+Sentiment: pos
+Text: RT @harimaumalaya7: Liga India sudah diswastakan..Kelab mereka dimiliki oleh beberapa bintang bollywood dgn kemasukan pemain bintang (marqu…
+User: xmustaqimx
+Sentiment: pos
+Text: RT @Goal_India: The logo of @IndSuperLeague's Mumbai franchise. Follow the launch of Mumbai City FC LIVE! http://t.co/oB09WZih95 http://t.c…
+User: ankitsoni
+Sentiment: pos
+Text: ‘We (India) should also have the right to officially meet Baloch separatists on Pakistani soil’ Kanwal Sibal writes http://t.co/eVZyhJGDI0
+User: BalaachMarri
+Sentiment: pos
+Text: @OGQ_India @RahulBose1 @Pvsindhu1 'ACTION' : Nibi Panga Thaakbi Chaanga
+
+zoomaax rating : 4 and 1/2 
+
+http://t.co/ktU4Y67sqt
+User: zoomaaxindia
+Sentiment: pos
+Text: RT @GasJeansIndia: #GASJeansIndia is trending in India! Thanks to all you #MotoGP fans! 3rd question coming up at 1:30. Do you know all the…
+User: meens_m
+Sentiment: pos
+Text: RT @filmyweek: Hrithik Roshan to train hard for 'Mohenjo Daro'? - Zee News: Zee NewsHrithik Roshan to train hard fo... http://t.co/v5vlF9Rh…
+User: iHrithik_Team
+Sentiment: pos
+Text: http://t.co/9uJlIIOSqe http://t.co/Wh6CrE8W0N
+User: Chetan_Jagat
+Sentiment: pos
+Text: Maybe I'll go bald for a film: Priyanka Chopra http://t.co/gdrnvqfH7x @priyankachopra
+User: PeeCee_Doll
+Sentiment: pos
+Text: The Key Differences Between Alibaba And Amazon In One Chart | Business Insider India http://t.co/RdsYcUnDZf
+User: danwildcard
+Sentiment: pos
+Text: RT @indiantweeter: केजरीवाल अभी ज़िंदा है जी RT @BBCHindi: 'सांप्रदायिकता से लड़ने वाला सिपाही चला गया'  http://t.co/VpfsExcSAu”
+User: AniruddhaRP
+Sentiment: pos
+Text: RT @ZeeNews: Historian Bipan Chandra is dead
+http://t.co/lSUyuGlc6r
+User: mukherjikajori
+Sentiment: pos
+Text: India's growth speeds up in after-glow of Modi's triumph - Reuters India http://t.co/j2DOYZJvdX http://t.co/nOCdMsUqXb
+User: MadhuSP2
+Sentiment: pos
+Text: India vs England 3rd ODI at Trent Bridge: Key Battles - Cricket Country http://t.co/mA8iEbkkvE http://t.co/nOCdMsUqXb
+User: MadhuSP2
+Sentiment: pos
+Text: @vivekkapoor111 See Vivek NSEL is a scam and it will be looked by Govt as other scam,India has many other big probs too and u know it
+User: SunilSinghBJP
+Sentiment: pos
+Text: RT @trendinaliaIN: Trend Alert: #GASJeansIndia. More trends at http://t.co/LZ0lSnKin9 #trndnl http://t.co/Rnv8cZJaiA
+User: meens_m
+Sentiment: pos
+Text: Apple’s iWatch may hit markets only by 2015 – Daily News & Analysis #TopNews http://t.co/jw8p4jYqod
+User: india_breaking
+Sentiment: pos
+Text: RT @JasumatiPatel: My Paper Vibrant India is out! http://t.co/m8z4TprMEN
+User: AvinashMishra07
+Sentiment: pos
+Text: Political parties should have a legal binding with the promises they made in their agenda. http://t.co/Lm3sSxfBBw via @Change4India
+User: amit_maheshwary
+Sentiment: pos
+Text: Modi launches Jan Dhan Yojna in Delhi http://t.co/zuA6lQpREx #microfinance #india #financialinclusion
+User: microfinanceind
+Sentiment: pos
+Text: #India #News : Ebola in India: SC directs government to screen passengers from affected ... - TheHealthSite http://t.co/XBqaXzThZ3
+User: AwakIND_News
+Sentiment: pos
+Text: #News #India : Ebola in India: SC directs government to screen passengers from affected ... - TheHealthSite http://t.co/lcB91tEJIr
+User: AwakIND_News
+Sentiment: pos
+Text: @naandi_india @anandmahindra #ProudFathersForDaughters not fair! Even delhi has proud fathers.When do I get to have this privilege in delhi
+User: tweets_manish
+Sentiment: pos
+Text: India, Japan seek deals during Narendra Modis visit to Tokyo – Deccan Chronicle http://t.co/c8v57fH597
+User: PressGrab
+Sentiment: pos
+Text: RT @Alberthakho: India is home to a yearly 50 million tons of surplus grain yet it is also home to half the world's hungry.
+User: SukhKaurOjla
+Sentiment: pos
+Text: Right now Pakistani Awam be like Allah karey India b haar jaiye aj ameen :D
+User: ad_asad17
+Sentiment: pos
+Text: RT @khalidrafiq115: Qadri issues 24-hour deadline for Sharif to resign http://t.co/0kx9j5esip
+User: DesiNewsyTweets
+Sentiment: pos
+Text: RT @mediacrooks: These Congis think they can bribe even Ganesh? Hahhaaaa.. @digvijaya_28  http://t.co/sE0PtMRnds
+User: hamara_india
+Sentiment: pos
+Text: RT @nanditathhakur: #PakFriendlyOmar questioned Sedition charges against youths who raised pro Pakistan and anti India Slogans
+User: frendmtweets
+Sentiment: pos
+Text: “@mstarr232: Where's the worst nights sleep you had on #travel ? #ttot” Or on an overnight train in India with loud family @Julie747Johnson
+User: beccafolks
+Sentiment: pos
+Text: http://t.co/URg0xKIUEm... http://t.co/VFSaF827un
+User: Chetan_Jagat
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: PoonamV_
+Sentiment: pos
+Text: #RajaNatwarlal First Day All India Biz 6cr Nett.
+User: taran_Sir
+Sentiment: pos
+Text: Failed bid to send 157 asylum seekers to India costs $12m - all for Morrison's ego 
+
+http://t.co/ymUKKSGKkG
+User: MaryHenderson19
+Sentiment: pos
+Text: RT @bookmyshow: Q2: Shibani Kashyap has composed jingles for which famous dairy brand in India? #BMSContest #Mumbai
+User: Artistivity
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: jeetensingh
+Sentiment: pos
+Text: RT @shadymumbai: Lol The different Bhenchod's in India -----> http://t.co/x4LGipAkth
+User: AmanDabkhera
+Sentiment: pos
+Text: Indian Super League: Alessandro del Piero set to be signed by Delhi Dynamos #ISL http://t.co/JR9A44rhjX
+User: bellysyrus
+Sentiment: pos
+Text: .@TheHindu praises the Supreme Court for its restraint in the tainted Ministers case. http://t.co/hUKEb7KEmM
+User: VCLP_India
+Sentiment: pos
+Text: RT @timesofindia: BJP tried to make me Delhi CM: Kumar Vishwas  http://t.co/9zf6RxTEoh
+User: danyspeaks
+Sentiment: pos
+Text: RT @goyalsanjeev: Real issues which can make me see 
+> Arnab shouting
+> Barkha stopping bucks
+> Choubeyji Special edition of India@9 http:/…
+User: aarkay_81
+Sentiment: pos
+Text: @PIB_India @narendramodi reached at OSAKA airport
+User: poetvaibhav
+Sentiment: pos
+Text: RT @htTweets: #BJP rubbishes Kumar Vishwas' CM post claim as political stunt http://t.co/fU71Wcf3A7 http://t.co/on6NmUrcRx
+User: AroraBoyLucky
+Sentiment: pos
+Text: RIOT AFTER RIOT (PAPERBACK)  Author: M. J. AKBAR  Publisher: Roli Books Pvt Ltd, India http://t.co/Omr3wLfs34
+User: Lelobooks
+Sentiment: pos
+Text: #India manufacturing can only thrive if #power cost is cut by 50%, considering the power cuts all across, it has to harness more #energy.
+User: Israr_Shah
+Sentiment: pos
+Text: @nimmajji @centerofright for what distorting the Indian history. i am ashamed to read that india's existence came when mughals discovered it
+User: mdbiyani
+Sentiment: pos
+Text: @bsnlmobileindia http://t.co/j0nRDnEuPN
+User: FastComplaint
+Sentiment: pos
+Text: RT @Sekolah_Gambar: Here's Tender Over from country INDIA for Sekolah Gambar™ .... ManDAi http://t.co/YZpd7NrwuN
+User: Illustrator_De
+Sentiment: pos
+Text: India Post is far more efficient courteous that I imagined it being. It’s nice to see a well run state organization.
+User: iGoose
+Sentiment: pos
+Text: RT @love121215: @AzraAzrayilmaz tum India ki hooooo ???
+User: AzraAzrayilmaz
+Sentiment: pos
+Text: Good piece on why India must insist on Transfer of Technology for Defence Purchases from the US. http://t.co/6EdkMxPdFX
+User: cowmaaa
+Sentiment: pos
+Text: After Gold, Samsung brings Blue Galaxy Grand 2 to India http://t.co/FlbT6sLmyE
+User: khalidrafiq137
+Sentiment: pos
+Text: RT @MaheishGirri: With 65% youth population, India has great potential to be a world sports power. What's needed proper planning & faciliti…
+User: bparth_94
+Sentiment: pos
+Text: Similarity b/w India nd Japan we both bow while greeting others but we fold our hnds to do namaste......#NAMO in #Japan
+User: coolhunk5l
+Sentiment: pos
+Text: Yes, We Need to Learn from Arunachal Pradesh, India! 
+If Every Human Being in the World Planted a Tree, we Would... http://t.co/s9jdJp3zhX
+User: TusharSangar8
+Sentiment: pos
+Text: Nitin Gadkari: Centre will clear prosposed water projects in Thane http://t.co/NsmZPtgY4T
+User: BellaSharma
+Sentiment: pos
+Text: @PhillyChic5 being in India am still up
+User: VictorRavindra
+Sentiment: pos
+Text: Karnaval fashion show + nari lagu india . Wakwakwakwakk
+User: EllaSandi
+Sentiment: pos
+Text: At @MapsofIndia we are chasing "achehe din" 96 days done. Each Day has been documented / @narendramodi & @PMOIndia http://t.co/1cyqa7G10Z
+User: simarp
+Sentiment: pos
+Text: One soldier killed in Kashmir army operation http://t.co/I3D2YXLsWP
+User: BellaSharma
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/24mTyrNqa8 #IndianNews
+User: sadanandramna
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/QlQmFUn7Lb #IndianNews
+User: sadanandramna
+Sentiment: pos
+Text: RT @ggiittiikkaa: Love jihad in MP: 2 neo converts booked for forcing wives to embrace Islam 
+http://t.co/uoOVN8ppOO Yawn. Barkha thinks it…
+User: Yash_Agarwal97
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/Tf3HqnjaPM #IndianNews
+User: jitendraben
+Sentiment: pos
+Text: Imperative plague mastermind visitant india: ysQE http://t.co/e8afHgX2M3
+User: TurnerCharlson
+Sentiment: pos
+Text: RT @upma23: #PakFriendlyOmar is very very ANTI INDIA
+User: indian_shine
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/SopILd37wB #IndianNews
+User: jitendraben
+Sentiment: pos
+Text: RT @AndaTahu: India memiliki populasi lebih dari 50 juta ekor kera di negaranya.
+User: Kevinharlin13
+Sentiment: pos
+Text: 1. Ga suka dblg cntik, *gangerasasoalnya*
+2. Suka bgt mkanan pedes.
+3. Prnh disangka kturunan India, pdhl asli Indonesia, Jabar.
+#FAKTAKU
+User: El_Rahma98
+Sentiment: pos
+Text: MASSIVE SATURDAY NIGHT PLAN: Undoubtedly, one of the best India's best DJs, Ankytrixx is in town and he's ready... http://t.co/xcfmBIJpXB
+User: djd33p
+Sentiment: pos
+Text: RT @goyalsanjeev: Real issues which can make me see 
+> Arnab shouting
+> Barkha stopping bucks
+> Choubeyji Special edition of India@9 http:/…
+User: patnaikt
+Sentiment: pos
+Text: MoS for Finance Ms. @nsitharaman , Finance Secretary, Dr. Arvind Mayaram will also attend the Press Conference, 3PM today at NMC. (2/2)
+User: MIB_India
+Sentiment: pos
+Text: Xiaomi to sell 40,000 Redmi 1S smartphone units on Sept 2 via Flipkart. read more: http://t.co/WVYIiubD3c http://t.co/0sYYDPY4YE
+User: BT_India
+Sentiment: pos
+Text: RT @INCIndia: ..when I die, I can say, that every drop of my blood will invigorate India and strengthen it..- Smt. Indira Gandhi http://t.c…
+User: prashant1288
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/0Qp2tJB3Ot #IndianNews
+User: NikhileshRama
+Sentiment: pos
+Text: "@timesofindia: Violence in Muzaffarnagar: 4 boys attacked by a group of people  http://t.co/Z2N2zNfMdl"
+Again thy will say #bjp has done it
+User: shivize
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/Bz7Y8vArOL #IndianNews
+User: NikhileshRama
+Sentiment: pos
+Text: Haha. Gud luck la untk bff aku yg nak belaja masakan india. Aku ni nak masak asam pedas pun tak pass lgi.
+User: horlick_sejuk
+Sentiment: pos
+Text: RT @TarekFatah: Indian jihadi group urges Muslims to join #ISIS to train for "an eventual insurgency in India." http://t.co/tvEDof8FTJ via …
+User: rnjtkrsng
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/hzi8DRToMi #IndianNews
+User: ManoharLat
+Sentiment: pos
+Text: @Dialtalcual  pegados ya a la radio para escuchar el duo de nuestro bisbal e india martinez que ganas tenemos :D
+User: Bisbal2715
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/1sGEN3PBdg #IndianNews
+User: ManoharLat
+Sentiment: pos
+Text: Por otra parte, Japón lleva tiempo intentando que India adopte su sistema de trenes bala y los dos Gobiernos... http://t.co/jB3THOJYjC
+User: elpaiscr
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/g7xsLZZ4GE #IndianNews
+User: sadanandramna
+Sentiment: pos
+Text: TIL Desk International-Tokyo/ Japan and India both have much to gain from a visit by Prime Minister Narendra Modi... http://t.co/fc1Hji3Zj5
+User: tildelhincrnews
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/JZdCBxL6pE #IndianNews
+User: GokulChavann
+Sentiment: pos
+Text: Prakash Javadekar: Stop Field trials of GM crops in India https://t.co/cRV9bylxRP via @Change4India
+User: barajbhushan
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/BIQf840wsM #IndianNews
+User: sadanandramna
+Sentiment: pos
+Text: Spectator ejected from India-England ODI for alleged bookie links: Cardiff, Aug 30: The fears of invo... http://t.co/smxypXNmhg #Cricket
+User: IamRoniowais
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/xzykaxJX9e #IndianNews
+User: GokulChavann
+Sentiment: pos
+Text: RT @htTweets: #Bihar: Muslim man shuns wife for attending Independence Day function http://t.co/OocQcRAVJN http://t.co/LXUFWLRnXd
+User: ssfcoaching
+Sentiment: pos
+Text: Times of India 4u:                             h1 a:hover {background-color:#888;color:#fff ! important;}     ... http://t.co/B74PdsczTv
+User: shekharcharles
+Sentiment: pos
+Text: @qamar_nida girls raped & hung. India govt Minister says rape “sometimes right”! Sign to demand action @narendramodi https://t.co/tz14xchXch
+User: lamommusic
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/xob4fgQvFO #IndianNews
+User: AmoghRama
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/4OCUiEiRfp #IndianNews
+User: AmoghRama
+Sentiment: pos
+Text: RT @timesofindia: Love jihad in Madhya Pradesh: Two booked for forcing wives to embrace Islam http://t.co/7kQohIbrss
+User: djgoodlook
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/oyTZHFKWQ1 #IndianNews
+User: Piyushkahuja
+Sentiment: pos
+Text: I liked a @YouTube video http://t.co/T5kKSUaQNS AIB: When India Spoke to Pakistan
+User: ScarfedUp
+Sentiment: pos
+Text: Nitin Gadkari: Centre will clear prosposed water projects in Thane http://t.co/3rFrVyrrXr
+User: SuryaRay4
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/US0hCLJQz4 #IndianNews
+User: Piyushkahuja
+Sentiment: pos
+Text: RT @OurBDL: #India is known for its diversity of religion & communities. We are a land of tolerance with diverse communities ranging from 1…
+User: cryptex_221B
+Sentiment: pos
+Text: #BreakingNews Nitin Gadkari: Centre will clear prosposed water projects in Thane http://t.co/wKEcorMYMK
+User: LiveNews24x7
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/5FYn1ILet7 #IndianNews
+User: jitendraben
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/70wXQZ0MR4 #IndianNews
+User: NikhileshRama
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/JEHE9840F7 #IndianNews
+User: RamkumarrLal
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/4HOMipQdB9 #IndianNews
+User: jitendraben
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/jvKjaRTF0T #IndianNews
+User: ManoharLat
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/YSlfKDOlrZ #IndianNews
+User: NikhileshRama
+Sentiment: pos
+Text: Hit the trail monument packages, mission peregrinate in relation to india,pilgrim progress as for... http://t.co/ClGLCTe9M0
+User: MabelTaylor14
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/CP46nb7Nmi #IndianNews
+User: RamkumarrLal
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/Ylq0sIhGIs #IndianNews
+User: ManoharLat
+Sentiment: pos
+Text: RT @OurBDL: #India The world's average annual death rate from intentional violence,in recent years,  is 7.9 per 10000 people.
+10/n
+User: cryptex_221B
+Sentiment: pos
+Text: RT @ZeeNews: Indian American scientist invented e-mail 32 years ago
+http://t.co/jvbL572bhf
+User: DharmSaapeksh
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/BFhz1TsbjD #IndianNews
+User: GokulChavann
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/bauw0UsJOp #IndianNews
+User: AmoghRama
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/nWzdzd9heu #IndianNews
+User: GokulChavann
+Sentiment: pos
+Text: One soldier killed in Kashmir army operation http://t.co/gtioYqvIUd
+User: SuryaRay4
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/ErKnWrGHhH #IndianNews
+User: AmoghRama
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/0Nzq08SJAR #IndianNews
+User: Piyushkahuja
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/0E9VbQ7xXD #IndianNews
+User: MadhavvSoni
+Sentiment: pos
+Text: #BreakingNews One soldier killed in Kashmir army operation http://t.co/Na8aSTqQRQ
+User: LiveNews24x7
+Sentiment: pos
+Text: RT @nanditathhakur: #PakFriendlyOmar taunted the GOI saying that Pak would not stop its anti-India operations unless the so-called Kashmir …
+User: kailashkaushik8
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/XXgH0UNGZF #IndianNews
+User: MadhavvSoni
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/665SuAwO9F #IndianNews
+User: Piyushkahuja
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: ShankerPutra
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/GUyndSDozv #IndianNews
+User: RamkumarrLal
+Sentiment: pos
+Text: The slang Chink (or Chinky) does not seem to have originated in India.
+
+#AgathaChristie #TheBigFour http://t.co/owpNU9lvbu
+User: ovshake42
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/iK9GppsI21 #IndianNews
+User: MadhavvSoni
+Sentiment: pos
+Text: . http://t.co/x0MdBG6VZT @IndianExpress please help us with their departure date and time also.can't trust their words
+User: prashanthpraj
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/A3BAmeGLUf #IndianNews
+User: RamkumarrLal
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/OP23NfrQCf #IndianNews
+User: MadhavvSoni
+Sentiment: pos
+Text: Not news though? RT @The_Sports_Jock: So players are now turning down Test selection to go play T20 cricket in India
+User: This_Kate
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/EGKoy5fHNB #IndianNews
+User: RajivsSuri
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/2AHP1u4uzg #IndianNews
+User: RajivsSuri
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/SxAHQvkk5j #IndianNews
+User: RajivsSuri
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/aBlLmt9fSz #IndianNews
+User: RajivsSuri
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/lqLcY8C0jZ #IndianNews
+User: ShivendraTak
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/0BWipTMgMr #IndianNews
+User: ShivendraTak
+Sentiment: pos
+Text: 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark http://t.co/N8auaNSG3o
+User: Ariane_Wilson
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/wm5V5Tuafc #IndianNews
+User: ShivendraTak
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: YesIamSaffron
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/Bbuh8P7QKs #IndianNews
+User: ShivendraTak
+Sentiment: pos
+Text: teu napsu perem na ge mending nyele pilm india
+User: karlina_opiw
+Sentiment: pos
+Text: Firefox OS Smartphones Change The Mobile Landscape Across India | The Mozilla Blog https://t.co/eUFBvDGWN3
+User: novia713
+Sentiment: pos
+Text: Shruti web news: India Today Tevar : Shruti Haasan's 'Bablu' saves her life Times of India… http://t.co/fi7kzEDVtg
+User: Shruti4fans
+Sentiment: pos
+Text: Latest : 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'W... http://t.co/7yJoVZpt5T #IndianNews
+User: pragunbalan
+Sentiment: pos
+Text: Shruti web news: Kamal Haasan convinces Shruti Haasan to turn vegetarian Times of India… http://t.co/49k4eK1HEE
+User: Shruti4fans
+Sentiment: pos
+Text: Shruti web news: Times of India Shruti Haasan to dub in Telugu Times of India Shruti Haasan… http://t.co/PJFqtogUtF
+User: Shruti4fans
+Sentiment: pos
+Text: Latest : Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit ... http://t.co/yCyBtc6Fnc #IndianNews
+User: pragunbalan
+Sentiment: pos
+Text: Shruti web news: Times of India Shruti Haasan to romance Ram Charan again Times of India… http://t.co/RIi8KXp2b2
+User: Shruti4fans
+Sentiment: pos
+Text: Shruti web news: Times of India Shruti Haasan's first big screen appearance was in Hey Ram… http://t.co/lBSnXzrUpr
+User: Shruti4fans
+Sentiment: pos
+Text: @agamjd NAWAZ SHARIF PROTECTED INDIAN ARMY'S REPUTATION IN KARGIL WAR India LIED About Kargil War Casualities http://t.co/vJUsoV6ms4
+User: agamjd
+Sentiment: pos
+Text: 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark - NDTV: NDTV'Well Within Right to M... http://t.co/LSmqVitSIp
+User: KashyapDeepak83
+Sentiment: pos
+Text: RT @ranganaathan: By trashing the Gadgil report recommendations, did we just kill the Western Ghats? http://t.co/QxNKqwCErY via @dna
+User: _gaurav
+Sentiment: pos
+Text: RT @timesofindia: Coal stocks lowest since 2012 blackouts http://t.co/XAgH72ZzRZ
+User: dd4power
+Sentiment: pos
+Text: TIL Desk Business-Tokyo/ Japan and India both have much to gain from a visit by PM Narendra Modi and more than a... http://t.co/R09EgnMw6L
+User: tildelhincrnews
+Sentiment: pos
+Text: Canada Minister to visit India for four days - Zee News: ANINEWSCanada Minister to visit India for four daysZe... http://t.co/MDWrQSwTml
+User: KashyapDeepak83
+Sentiment: pos
+Text: RT @YesIamSaffron: Indian Students one of the Major Contributors to US economy: Report @MrUTurn @ensine @ibps4u
+http://t.co/c1GuV9Bfbo http…
+User: jeetensingh
+Sentiment: pos
+Text: While visiting the ruins of Vijayanagara Empire, in the village of Hampi, Karnataka, India, I came across this... http://t.co/K3w2R5MWJv
+User: lcphotooftheday
+Sentiment: pos
+Text: #Indian #India A Soaring Market for Classic Cars: At the Bonhams Quail Lodge auction, nine... http://t.co/yhZDNf65uf #SuryaRay @SuryaRay
+User: Megan__Martinez
+Sentiment: pos
+Text: எல்லையில் ஊடுருவ தீவிராவதிகள் முயற்சி: துப்பாக்கிச் ... - Oneindia Tamil http://t.co/xW2KULCNk5
+User: INDIAHD1
+Sentiment: pos
+Text: RT @e4mtweets: .@Discovery firms up India growth strategy with exclusive programming: http://t.co/dPA5BOj2iE @rjohri1 @AnimalPlanet #ArjanH…
+User: sujatawde
+Sentiment: pos
+Text: RT @MrScottEddy: Whale sharks found off Gujarat coast no expats, they are Indian - Times of India http://t.co/LwiDXceO9J #Expats #News
+User: SamirMBrda
+Sentiment: pos
+Text: RT @EeshHindu: ISISI के आतंकियों द्वारा यज़ीदी महिलाओको विक्रयके लिए बोली लगाते हुए।कुछ नहीं बदला इस्लाम के अंदर.जो पहले था आज भी हे http:/…
+User: hamara_india
+Sentiment: pos
+Text: for #Bengal electorate the Message is loud and clear : 
+
+Its BJP versus Trinamool+CPM+congress in Bengal 
+
+Its... http://t.co/aZnnvSxSya
+User: PrakashChakra
+Sentiment: pos
+Text: I love my india http://t.co/GGPoO510NI
+User: azmeera14448
+Sentiment: pos
+Text: Act opportunities straight catholic sextant slope draft exams intrusive india: JCmiv http://t.co/iBh0X57cjR
+User: SierraFane
+Sentiment: pos
+Text: @NurulSaidahHasn klau dlm ketogori cina or jorea tk box office..mostly yg tgok citer nie india
+User: ARIFAKMAL97
+Sentiment: pos
+Text: RT @indiaforums: "I don't know much about fashion." - Vrushika Mehta 
+@VrushikaMehta1 @FcVrushika @VrushrikaFC 
+http://t.co/VQdKF92gs0 http…
+User: imsndy
+Sentiment: pos
+Text: Discovery firms up India growth strategy with exclusive programming: Discovery has presented its
+growth strate... http://t.co/9PXmzJkOVp
+User: WorldOfDth
+Sentiment: pos
+Text: RT @htTweets: #BJP rubbishes Kumar Vishwas' CM post claim as political stunt http://t.co/fU71Wcf3A7 http://t.co/on6NmUrcRx
+User: Rahulkshwh
+Sentiment: pos
+Text: Who Is The Best Batsman In Team India Now..? http://t.co/veHywtAhCx
+User: ImSarathC
+Sentiment: pos
+Text: RT @StarSportsIndia: With Rohit Sharma injured, will Rahane be India's new opener? Find out today from 1:30 PM on Star Sports 1, 3, HD1 & h…
+User: rohit_nakhwa
+Sentiment: pos
+Text: Meet India's Poorest Chief Minister, Manik Sarkar http://t.co/p0IjhASITt
+User: neha_gargi
+Sentiment: pos
+Text: Yes, We Need to Learn from Arunachal Pradesh, India! :)
+If Every Human Being in the World Planted a Tree, we... http://t.co/YjQMKLvZFz
+User: TusharSangar8
+Sentiment: pos
+Text: A report on the hearing in the Supreme Court on the Writ Petition to block internet pornography in India http://t.co/nlM4wx9FKd @CCGDelhi
+User: VCLP_India
+Sentiment: pos
+Text: RT @swamyforpm: “India's policy is to treat all Sri Lankan equally” - Dr. Swamy http://t.co/R07UflDc0C
+User: _gaurav
+Sentiment: pos
+Text: Mu Sigma Walkin 2014 Across India for BE/BTech/BSc/BA/ME/MTech/MSc graduate for Freshers apply before 05 & 06 &... http://t.co/CYSS4OxuNH
+User: anirudhanauthor
+Sentiment: pos
+Text: @ICICIBank_Care Hey, I've moved to US from India. How can make fund transfer from here. I need help. Please revert or give me a no. to call
+User: ManyuVsManyu
+Sentiment: pos
+Text: RT @akm_aa: RT @Prerna_India: BJP di roz ik navi Scheme #DelhiWantElection
+User: yalgaarmateen
+Sentiment: pos
+Text: #Casual Shirts #CampShirt - Black & White http://t.co/aOOBsHZKVm via @sharethis #elementjeans #Sirlanka #India #Pakistan #London #Paris #NY
+User: ElementJeans
+Sentiment: pos
+Text: RT @StarSportsIndia: With Rohit Sharma injured, will Rahane be India's new opener? Find out today from 1:30 PM on Star Sports 1, 3, HD1 & h…
+User: RajeshPantera
+Sentiment: pos
+Text: RT @Bhairavi_Jani: Needed & arriving soon in India. Power of social media!!
+@shekharkapur @govindethiraj @calamur @horror06 @MiniMenon http…
+User: horror06
+Sentiment: pos
+Text: Failed bid to send 157 asylum seekers to India costs $12m http://t.co/92Djxbpq1S via @guardian #auspol
+User: TheyRLying2Us
+Sentiment: pos
+Text: 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark http://t.co/DRLD3L7omu
+User: Oceane_Rodrigue
+Sentiment: pos
+Text: India eating eggs who eats eggs she's dirty . Eggs smell like feet
+User: briannalove_xo
+Sentiment: pos
+Text: #BukaJasaTTIminatPMBachemeDotID lebih suka lagu korea atau lagu india?
+User: benaiah723_
+Sentiment: pos
+Text: Love jihad in Madhya Pradesh: Two booked for forcing wives to embrace Islam http://t.co/1ed7wRVokp
+User: Fastmilks
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: sanat397
+Sentiment: pos
+Text: India’s economy grows 5.7% in Q1, highest in 2 years: NEW DELHI - India said on Friday (Aug 29) its eco... http://t.co/XQ9aJyvfzv #Jdt01
+User: abangmisai1
+Sentiment: pos
+Text: @markotalk pretty sure it's not ina, it's india     ....i think
+User: wangjacksoff
+Sentiment: pos
+Text: @AzraAzrayilmaz tum India ki hooooo ???
+User: love121215
+Sentiment: pos
+Text: RT @walegates: Only 31% passed maths & Eng. Out of 1.6m candidates only 500k got up to 5credits. At this rate we wld soon start 2import Doc…
+User: princebdex
+Sentiment: pos
+Text: RT @YesIamSaffron: Indian Students one of the Major Contributors to US economy: Report @MrUTurn @ensine @ibps4u
+http://t.co/c1GuV9Bfbo http…
+User: VictoryForNamo
+Sentiment: pos
+Text: RT @IndiaToday: Prime Minister Narendra Modi arrives in Japan
+http://t.co/kleZQDi6Ec
+User: JamareManish
+Sentiment: pos
+Text: Know anyone for this job? Resume Sourcing Executives in Ahmedabad, India http://t.co/O3VWGiu7ok #job
+User: RahulLanjekar
+Sentiment: pos
+Text: @AndrewH_1999 hi Andy, just downloaded pak India, do some channel only work at certain times !! Bt sport doesn't start up ?
+User: manred007
+Sentiment: pos
+Text: RT @MaheishGirri: With 65% youth population, India has great potential to be a world sports power. What's needed proper planning & faciliti…
+User: sanney
+Sentiment: pos
+Text: RT @Xuxipc: Cómo os pasáis con lo de #EmpresasMalvadas Inditex tendrá a niños trabajando en Brasil y la India, pero al menos pagan impuesto…
+User: antonovas
+Sentiment: pos
+Text: 1st India News http://t.co/OlPttCY6W1
+User: toptvchannels
+Sentiment: pos
+Text: RT @MrScottEddy: Whale sharks found off Gujarat coast no expats, they are Indian - Times of India http://t.co/LwiDXceO9J #Expats #News
+User: bestflavorsr
+Sentiment: pos
+Text: KualaLumpurPost : India’s economy grows 5.7% in Q1, highest in 2 years: NEW DELHI - India sai... http://t.co/4UqLb8bDuP #PrkDR #PrayMH17
+User: YeopMFYCerCiter
+Sentiment: pos
+Text: Mera Ghar - A smart Township - Kharghar Extention ,Nighu ,Navi Mumbai. 
+Video -- https://t.co/Mv6XnKuYpE
+#mumbai #indiapropertycart #india
+User: Best_Buy_Homes
+Sentiment: pos
+Text: India’s economy grows 5.7% in Q1, highest in 2 years: NEW DELHI - India said on Friday (Aug 29) its... http://t.co/8KUTdd56q2 @Abg_Kwsn7
+User: azmanghani
+Sentiment: pos
+Text: RT @timesofindia: Violence in Muzaffarnagar: 4 boys attacked by a group of people  http://t.co/b6lFqa6Qrd
+User: shivize
+Sentiment: pos
+Text: #PrayMH17 #SaveGAZA India’s economy grows 5.7% in Q1, highest in 2 years: NEW DELHI - India sa... http://t.co/LIKZXiV4Cw @Mr_Rem_ #JDT01
+User: NoorAzua
+Sentiment: pos
+Text: http://t.co/2oUyjXDdrs @plplki
+User: 214444144
+Sentiment: pos
+Text: Gambhir, Ashwin included as India bat http://t.co/2AblG1Dn9Y
+User: daljitkalsi
+Sentiment: pos
+Text: RT @YesIamSaffron: Indian Students one of the Major Contributors to US economy: Report @MrUTurn @ensine @ibps4u
+http://t.co/c1GuV9Bfbo http…
+User: sanat397
+Sentiment: pos
+Text: #DoaUntukMalaysia India’s economy grows 5.7% in Q1, highest in 2 years: NEW DELHI - India sa... http://t.co/dbMMsy7bUG @tunfaisal #PrkDR
+User: Mr_Rem_
+Sentiment: pos
+Text: Finance Minister Shri @arunjaitley will address a Press Conference today at 3 PM, National Media Centre, New Delhi. (1/2)
+User: MIB_India
+Sentiment: pos
+Text: RT @timesofindia: Love jihad in Madhya Pradesh: Two booked for forcing wives to embrace Islam http://t.co/7kQohIbrss
+User: Against_Pseudos
+Sentiment: pos
+Text: RT @iyer_shreedhar: Yogi Adityanath to be BJP's star campaigner in UP  http://t.co/lmGr4r6M85
+User: sanny2023
+Sentiment: pos
+Text: #DoaUntukMalaysia India’s economy grows 5.7% in Q1, highest in 2 years: NEW DELHI - India sa... http://t.co/mG9du5HIRQ @tunfaisal #PrkDR
+User: LelakiMelayu7
+Sentiment: pos
+Text: @ddusworld Cricket is a religion in India, Pakistan etc
+User: RobertRyan4
+Sentiment: pos
+Text: Arsene Wenger refuses to bemoan Olivier Giroud`s absence: Arsenal`s trip to face Leicester City on Sunday will... http://t.co/22Dt7lHjyk
+User: Bongdiva
+Sentiment: pos
+Text: Love jihad in Madhya Pradesh: Two booked for forcing wives to embrace Islam http://t.co/rivDYkTG3m
+User: iLoveMyntra
+Sentiment: pos
+Text: http://t.co/Xhpg72cSv0 @plplki
+User: 214444144
+Sentiment: pos
+Text: PM Narendra Modi leaves for 5-day visit to Japan http://t.co/74GtQj91TG
+User: iLoveMyntra
+Sentiment: pos
+Text: An 18 yr old dude from India just replied to a 44 yr old woman in Australia!  Looks like they're getting along!
+User: DatingMobi
+Sentiment: pos
+Text: RT @TheLadBible: Frank Lampard has retired from International football with England to pursue his cricket career with India... http://t.co/…
+User: MeganFleming_xo
+Sentiment: pos
+Text: RT @AngelBrokingLtd: Gujarat, Maharashtra & Karnataka together account for about 61% share in India's hotels & tourism industry: ASSOCHAM: …
+User: sksundaram64
+Sentiment: pos
+Text: RT @timesofindia: Love jihad in Madhya Pradesh: Two booked for forcing wives to embrace Islam http://t.co/7kQohIbrss
+User: chhayank
+Sentiment: pos
+Text: @iamSpoudel india
+User: dwaipon
+Sentiment: pos
+Text: 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark http://t.co/gXvssCjASg
+User: india_links
+Sentiment: pos
+Text: #Nepal What dispute? India and China ignore land squabble: NEW DELHI: For more than 50 yea... http://t.co/nSF2LLlV18 VIA @MilijuliDotCom
+User: milijulidotcom
+Sentiment: pos
+Text: @mpkangas ah OK, not yet in India.
+User: nirmaltv
+Sentiment: pos
+Text: RT @strawkes: 'I Don't Win Because of Your Votes': Bihar Chief Minister Tells Protesters In His Constituency http://t.co/ItlEPheuSj
+User: saataarkar
+Sentiment: pos
+Text: RT @IndiaToday: Prime Minister Narendra Modi arrives in Japan
+http://t.co/kleZQDi6Ec
+User: TacticalTwiter
+Sentiment: pos
+Text: RT @Razarumi: A Muslim who engraves Jewish Tombs in India. Great story by @SamKhan999 http://t.co/Dcix3tiiVl @yifaya http://t.co/VzR3wV8gph
+User: abhayjj
+Sentiment: pos
+Text: RT @ChupaOgm69: @pedrosalazart1 corrigiu né, eu li oq vc escreveu antes, índia safada kkkkkk
+User: pedrosalazart1
+Sentiment: pos
+Text: RT @Chellaney: "It is hard to recall a time in recent years when the visit of a foreign leader has been so eagerly awaited in Japan" http:/…
+User: ls2008
+Sentiment: pos
+Text: A better way to implement #PMJanDhanYojana wud be to issue bank license to India Post and create accts there (in case bank is better)
+User: sisiro
+Sentiment: pos
+Text: RT @InternetHindus: Police in its report reveals that Muslim terror outfit Indian Mujahideen planning to wage chemical war against India
+ht…
+User: tarunjohri
+Sentiment: pos
+Text: Don't mess with nuclear Russia, Putin says - Times of India via World - Google News - Times of ... http://t.co/oUJGWun4MI
+User: KevinAlcenaNews
+Sentiment: pos
+Text: Pak_102/10
+Fawad_39*
+Dosto Hm india pe hanste the ab kis pe hanse
++
+Ali_Murtaza
+FroM SinDh
+User: icc_livescore_u
+Sentiment: pos
+Text: @ndtv - Your team didnt report on this http://t.co/LhUFuGeZoQ
+User: AalokMohapatra
+Sentiment: pos
+Text: #jordanMAHO Lebih suka Film India / drama Korea ?
+User: cahyaningtyas_U
+Sentiment: pos
+Text: NEPAL, INDIA TO NEGOTIATE POWER TRADE DEAL NEXT WEEK http://t.co/F199sBKIHs
+User: namnewsnetwork
+Sentiment: pos
+Text: Lowery farewell speech before leaving India on 24th Aug 2014 at Allahabad Pentecostal Church, India in Morning... http://t.co/DD6QHdU3u8
+User: naveendavid
+Sentiment: pos
+Text: If article 370 is eradicated than ppl frm all over india can buy land in kashmir nd reduce #pak favoring kashmiri muslims to minority
+User: shivize
+Sentiment: pos
+Text: @kasunkalharaw girls raped and hung. India govt Minister says rape “sometimes right”! Sign to demand action  https://t.co/tz14xchXch
+User: lamommusic
+Sentiment: pos
+Text: @love121215 pakistan ne kabhi India se T20 match jeeta hain kia??
+User: AzraAzrayilmaz
+Sentiment: pos
+Text: Pakistan, India and United all playing on the same day.. #olddaysAreback
+User: tgirishkumar
+Sentiment: pos
+Text: @secularqais @OurBDL @Inc the very base voters of the party in UP and to some extent other part of north India 2/2
+User: sreedharanath
+Sentiment: pos
+Text: RT @americanhombre: "@htTweets: #India trapped in communal cauldron; Uttar Pradesh atop five worst-hit states http://t.co/gRvArYzAiq http:/…
+User: loosebool
+Sentiment: pos
+Text: RT @goyalsanjeev: Real issues which can make me see 
+> Arnab shouting
+> Barkha stopping bucks
+> Choubeyji Special edition of India@9 http:/…
+User: Hitarth1987
+Sentiment: pos
+Text: RT @InternetHindus: Police in its report reveals that Muslim terror outfit Indian Mujahideen planning to wage chemical war against India
+ht…
+User: Against_Pseudos
+Sentiment: pos
+Text: India Martinez - Hoy http://t.co/a9XktifknF
+User: emio04962062
+Sentiment: pos
+Text: @bsnlmobileindia http://t.co/0TqXTSfLJH
+User: FastComplaint
+Sentiment: pos
+Text: RT @icashmir: Must Read RT @SamreenMushtaq: My story of a torture victim from #Kashmir:
+A Tale of the Tortured http://t.co/T0e9O17gtw ||
+#I…
+User: aamirahad999
+Sentiment: pos
+Text: Outer layer four-year college good graces india-singhania school rajasthan word unsuspicious: zjypDe
+User: EdwardsHayden1
+Sentiment: pos
+Text: Innovative critter tattoos designs intake india: wMZM
+User: AydenDouglas2
+Sentiment: pos
+Text: Malaysia, India to review economic cooperation pact http://t.co/DcVl7cRVfD
+User: stockmarketpuls
+Sentiment: pos
+Text: RT @AkalLess: बुलेट ट्रेन लेने मोदी दी जापान गये हैं,उनसे निवेदन है हमारा,वहाँ से थोड़ा इमानदारी और देशभक्ति पाॅवडर ख़रीद लाना, हमारे देशको…
+User: Trending_India
+Sentiment: pos
+Text: @timesofindia glad and pleased that your channel has resumed Modi's coverage which is very significant and important for India
+User: kakdwip
+Sentiment: pos
+Text: RT @TheGrownManBlog: AUDIO NEWS By theGAM- Syria war Creep-CA Kill Switch-French Infighting-Japan FightsChina over India-Texas Schools http…
+User: nqhpxdomb
+Sentiment: pos
+Text: #Qadian [India] | It's currently Haze and 33C outside.
+User: WeatherPK
+Sentiment: pos
+Text: RT @GulfNewsTabloid: Oops. @HumaimaMalick's kissing scene in #RajaNatwarlal causes furore in Pakistan http://t.co/nDpIg5zTKg http://t.co/Qc…
+User: alawiabdul
+Sentiment: pos
+Text: http://t.co/EDQ05AIMRU #Haider @shahidkapoor @ShraddhaKapoor @ZeeNews
+User: parulsabherwal
+Sentiment: pos
+Text: ✿✿ शिक्षक दिवस पर #PM मोदी देशभर के स्कूली बच्चों को करेंगे संबोधित... For more visit: http://t.co/ubxSz2u6hS
+
+#India
+User: ModiforPM_2014
+Sentiment: pos
+Text: for #Bengal electorate the Message is loud and clear : 
+
+Its BJP versus Trinamool+CPM+congress in Bengal 
+
+Its... http://t.co/IcsXrHv7ww
+User: PrakashChakra
+Sentiment: pos
+Text: @SunilSinghBJP @PMOIndia @TigerNaMo @narendramodi  @arunjaitley We citizens of India have voted Modi ji to full power / support .
+User: vivekkapoor111
+Sentiment: pos
+Text: RT @wanderlustmag: "On my holiday to India I was disgusted to find that almost every restaurant served curry!" Crazy holiday complaints: ht…
+User: QETravel
+Sentiment: pos
+Text: RT @ZeeNewsHindi: अब से पहले इतना महत्वपूर्ण नहीं रहा अमेरिकी नेतृत्व : ओबामा
+http://t.co/OeN7vqIpJr
+User: ZeeNewsMedia
+Sentiment: pos
+Text: RT @ZeeNews: Catch India’s Little Drumming Wonder on @ZeeNews today at 3pm
+User: ZeeNewsMedia
+Sentiment: pos
+Text: @sonamakapoor u love ur job ! N we love when u r happy with ur job ❤️❤️ it is just amazing to watch such incredible talents in india ❤️❤️❤️
+User: pragyaverma99
+Sentiment: pos
+Text: RT @habibrahim92: Menarik jgk hindustan mggu ni.. mungkin itu situasi terjadi pada zaman india dijajah dilu..
+User: Twt_Bollywood
+Sentiment: pos
+Text: @pedrosalazart1 corrigiu né, eu li oq vc escreveu antes, índia safada kkkkkk
+User: ChupaOgm69
+Sentiment: pos
+Text: weh pahal ada orang india like ni
+User: alyadanisha_
+Sentiment: pos
+Text: RT @nakalcheebandar: What is this forced messaging to all schools in India by Modi...you are PM to govern a country...shame shame
+User: thirmehta
+Sentiment: pos
+Text: RT @yrajesh21: @Prerna_India very true, Same Journo went dumb on India tv Anchor Tanu Sharma case.
+#SpinelessJourno 
+Plz No: Don't link it …
+User: VinayPrasad52
+Sentiment: pos
+Text: RT @D_Brat: A list of HR Influencers in India “@thehirers: India's Top 100 #HR Influencers You Must Follow On Twitter | Read: http://t.co/Y…
+User: MJBaldBard
+Sentiment: pos
+Text: #NowWatching - 5 steps to '#Digital Branding - @GrantCardone on #CardoneZone 
+#socialmedia from #Mumbai #India
+User: join2manish
+Sentiment: pos
+Text: Travelling Indian style! Never boring here! All in a day's work. @ Kolkata India http://t.co/wjQ9LBfGWt
+User: ChrissieBlottin
+Sentiment: pos
+Text: RT @timesofindia: Violence in Muzaffarnagar: 4 boys attacked by a group of people  http://t.co/b6lFqa6Qrd
+User: Asif_AAP
+Sentiment: pos
+Text: RT @IshanMishra11: #PakFriendlyOmar "Either article 370 will exists or J&K wont be a part of india." J&K his fathers property ? Go Pak but …
+User: Rajput_Ramesh
+Sentiment: pos
+Text: RT @nisha_panta: अहिले लागिन्च,
+match सुरु भएसी आइन्च,
+argument गर्न चै खुब मजा आउने।।।
+all the best team india & dear kohli...
+User: narayan2121
+Sentiment: pos
+Text: Domestic servant substratum back up nones ultra-ultra india: sVxthbTpO
+User: AidenIsaiah
+Sentiment: pos
+Text: RT @iParamanand: Statues of Sri Ram and Hanuman in a cave from iraq.Next time someone says aryans migrated to india.. Just slap him ! http:…
+User: ShrimanYogee
+Sentiment: pos
+Text: @realsanamjung hello sanam. I am from kashmir, India. Recently watched ur show Dil e Muztar.Loved ur actng. Simply FLAWLESS <3 Do reply
+User: Rihaanshah
+Sentiment: pos
+Text: Sophia Latjuba dan Chelsea Islan Gaya India untuk 'Tetangga Masa Gitu?' http://t.co/TEEkmHI8QB
+User: Nandar_raehoon
+Sentiment: pos
+Text: RT @hankypanty: The existence of SRK and Wasim Akram has done more to induce peace between India and Pakistan than any politician on either…
+User: taha_barot555
+Sentiment: pos
+Text: Sophia Latjuba dan Chelsea Islan Gaya India untuk 'Tetangga Masa Gitu?' http://t.co/TYd3ey5zpr
+User: DJ_4R
+Sentiment: pos
+Text: RT @bsindia: #PepsiCo India's new CEO D Shivakumar says he is an ardent follower of management gurus http://t.co/2hR8wnLGtz #lunchwithbs
+User: manika1211976
+Sentiment: pos
+Text: Should govt tighten cyber security before rolling out Digital India, Jan Dhan Yojana? experts think so http://t.co/tBa8xSAkvX
+User: bsindia
+Sentiment: pos
+Text: RT @htTweets: #BJP rubbishes Kumar Vishwas' CM post claim as political stunt http://t.co/fU71Wcf3A7 http://t.co/on6NmUrcRx
+User: bhaaratwaasi
+Sentiment: pos
+Text: #NewDelhi #Jobs inbond process bpo7840034988: QSS BPO PVT LTD 9654953316 - New Delhi - India, Ne... http://t.co/ULsG0okONS #NewDelhiJobs
+User: New_Delhi_Jobs_
+Sentiment: pos
+Text: 'Well Within Right to Meet Kashmiri Leaders': Pakistan on PM Modi's Remark http://t.co/wLfh3qsFvY
+User: DanielCampbellp
+Sentiment: pos
+Text: Abhishek Bachchan to represent Team Chennai at #ISL launch http://t.co/CvsTHcxtes
+User: joshivharsh
+Sentiment: pos
+Text: @Chellaney the explanation given for why this is such a great idea isn't impressive enough. The only other I can think of is that India-
+User: scheherzade_
+Sentiment: pos
+Text: RT @commondesikid: Whenever a teacher mentions India, everyone stares at me.What do you want me to do?Break out in Bollywood dance and make…
+User: Tasmimahhh
+Sentiment: pos
+Text: RT @realmahirakhan: Kia kehna kya jodi hai, what Perfection Mayn! :D #FawadKhan @sonamakapoor @RheaKapoor #khoobsurat #India #Pakistan http…
+User: AnsaArif
+Sentiment: pos
+Text: embot sholawatan tun RT @Uswa_tun12: @untari114 nyanyi india aa mbot
+User: hesti19_
+Sentiment: pos
+Text: Does @ImranKhanPTI heading on @ArvindKejriwal way ? (1) http://t.co/oAGBsri7Uj. (2) http://t.co/hr4sq5sVPJ http://t.co/zD3OtNYtmk
+User: dineshdasa1
+Sentiment: pos
+Text: RT @Chellaney: Import only high technology: Modi scraps Singh's scandal-plagued plan to import light-utility helicopters and decides to bui…
+User: SenyorSandeep
+Sentiment: pos
+Text: RT @AltCricket: Congrats to @ashwinravi99 for winning India's prestigious Arjuna Award!
+User: merlytweets
+Sentiment: pos
+Text: RT @NatGeoTravel: Elaborate displays of flowers and candles are part of the celebration of India's Diwali Festival http://t.co/BjajEekFi5
+User: Krishna_Utkarsh
+Sentiment: pos
+Text: @lattemiko いかにも！
+User: keiko_india
+Sentiment: pos
+Text: Here's Tender Over from country INDIA for Sekolah Gambar™ .... ManDAi http://t.co/YZpd7NrwuN
+User: Sekolah_Gambar
+Sentiment: pos
+Text: We do love it but #India is MAD ! http://t.co/kcseFg1aF2 #travel #photography
+User: Britanniacomms
+Sentiment: pos
+Text: Violence in Muzaffarnagar: 4 boys attacked by a group of people  http://t.co/MiTP2f1wfV
+User: wujycepa
+Sentiment: pos
+Text: RT @IndiaHistorypic: 1944 (WWII)  :: Indian Troops at Burma India Border during Battle of Imphal and Kohima http://t.co/AlSTRNLz50
+User: BenEustice1
+Sentiment: pos
+Text: RT @friendscongress: More violence in #Muzaffarnagar, tension prevails as students beaten up. http://t.co/uwFBVPUWQx http://t.co/Kf0uRkSLsk
+User: VaghelaJalpesh
+Sentiment: pos
+Text: #SuryaRay @Akansha_Gautam One Army Jawan Killed in Militant Encounter in Kupwara http://t.co/i1qIo5a7hP #India #Indian @SuryaRay
+User: Ben____Wilson
+Sentiment: pos
+Text: @narendramodi @indiabulls lousy exprnc 2 discuss property wd India bulls in #vadodara..#dovedeck towers. "we dont sell to #muslims" #fail
+User: drjaved
+Sentiment: pos
+Text: A 43 yr old woman from Australia just replied to a 19 yr old dude in India!  Looks like they're getting along!
+User: DatingMobi
+Sentiment: pos
+Text: गुजरात में कैस्टर के रकबे में उछालhttp://t.co/IwjrJDBbB7 @iyappanklove @Milan_analyst
+@nirmalbang556 @PHDChamber @phdcci @MIB_India
+User: MarketAnanlyst
+Sentiment: pos
+Text: India's Modi visits Japan to boost security ties over assertive China http://t.co/PO8sZRMjAk
+User: TokyoUpdates
+Sentiment: pos
+Text: @ndtvfeed and to me President of India
+User: narangajay
+Sentiment: pos
+Text: What Dispute? India and China Ignore Land Squabble (http://t.co/7ndr4bkOD1) http://t.co/W32Gi5STLg
+User: 1001ptUS
+Sentiment: pos
+BUILD STOPPED (total time: 1 minute 33 seconds)

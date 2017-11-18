@@ -1,0 +1,3 @@
+ It's the medal distribution ceremony. 10^6 police officers, numbered from 1 to 10^6, are standing in a line. There are N (1<=N<=1000) iterations of medal distribution. In iteration i (0 < = i < N), count[i] ( 1 < = count[i] < = 100) medals are given to all officers from from[i] to to[i] ( 1 < = from[i] < = to[i] < = 10^6 )
+
+If we sum up the number of medals received starting from the first officer, who would be the first officer for which the cumulative sum exceeds a given medal count THRESHOLD ( 1 < = THRESHOLD < = 10^9 )? 
